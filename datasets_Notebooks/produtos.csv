@@ -1,0 +1,892 @@
+﻿IDProduto,IDProdutoPai,NomeCat,CodProd,NomeProd,Descricao,Peso,Estoque,Preco,Disponivel,Lancamento,EmDestaque,IDsFiltroItem
+6217460,,Abraçadeira,170627,"Abraçadeira rosca sem fim AE 913, 3/8"" a 1/2"", Vonder 2912400913",Indicada para fixação de mangueiras,0.01,0,0,False,False,False,154994
+6139176,,Acessórios,450299,Disco de Serra Mármore Especial Para Madeira Bosch 2608623003,"Discos de Corte Diamantados para Serra Mármore
+Disco especial para madeira com grãos de carbureto de tungstênio. Rápido, fácil e seguro.",0.1,5,34.67,True,False,False,154981
+6139435,,Acessórios,454514,Disco Diamantado Liso Para Cerâmica 105mm Bosch 2608603676,"Disco ideal para uso universal em ladrilhos de cerâmica, proporcionando cortes de ótima qualidade, com precisão e limpos.",0.11,5,15.21,True,False,False,154981
+6139437,,Acessórios,454515,Disco Diamantado Liso Para Porcelanato 110mm Bosch 2608602728,"Disco Liso para Porcelanato
+Disco de corte para serra mármore que pode ser usado a seco ou a úmido em porcelanato liso.
+Combinação duração/rendimento permite cortar sem problema.",0.14,5,58.77,True,False,False,154981
+6139528,,Acessórios,454512,Disco Diamantado Universal Segmentado 105mm Bosch 2608603674,"Disco de corte diamantado para todos os tipos de materiais de construção, tijolos e concreto.",0.1,0,15.21,True,False,False,154981
+6139530,,Acessórios,454513,Disco Diamantado Universal Turbo 105mm Bosch 2608603675,"Disco de corte diamantado para todos os tipos de materiais de construção, tijolos, concreto, telhas, mármore e granito.",0.1,1,15.21,True,False,False,154981
+6139984,,Acessórios,453688,Bocal de Cantos para Aspiradores  20/1- Karcher 69003850,Ferramenta pl stica (DN 35) para aspiração em fendas e cantos. Comprimento: 210 mm.,0.03,1,29.98,True,False,False,154984
+6139985,,Acessórios,453901,Bocal com Cerdas para Limpadoras a Vapor  - Karcher 28842800,"Ferramenta port til com escovas adicionais para limpeza de pequenas  reas como box de chuveiro, azulejos, etc. Adequado para uso com ou sem cobertura.",0.15,1,138.52,True,False,False,154984
+6139986,,Acessórios,453676,Bocal p/ aspiradores limpeza de estofados e cortinas NW 35 Karcher 69059980,Bocal de Cortinas e superfícies de tecidos,0.03,1,60.34,True,False,False,154984
+6139988,,Acessórios,453705,"Filtro de Cartucho para Aspiradores NT 20/1, A 2104 ou A 2104 PLUS - Karcher 93022600",O filtro de cartucho pode ser utilizado em substituição ao filtro permanente.,0.17,2,44.12,False,False,False,154984
+6210765,,Acessórios,249407,Broca Sds Max M4 16x400x540mm Bosch 2608685861,"Potência e resistência profissional para sua ferramenta.
+- Longa vida útil na perfuração em concreto
+-  Metal de alta durabilidade
+-  4 arestas, soldagem e têmpera a vácuo
+-  Espiral dupla forma",0.61,1,189.81,True,False,False,154981
+6210856,,Acessórios,19050,Broca Sds Max M4 18x400x540mm Bosch 2608685863,"Potência e resistência profissional para sua ferramenta.
+- Longa vida útil na perfuração em concreto
+-  Metal de alta durabilidade
+-  4 arestas, soldagem e têmpera a vácuo
+-  Espiral dupla forma",0.69,1,187.69,True,False,False,154981
+6210859,,Acessórios,19190,Broca Sds Max M4 22x400x520mm Bosch 2608685867,"Potência e resistência profissional para sua ferramenta.
+- Longa vida útil na perfuração em concreto
+-  Metal de alta durabilidade
+-  4 arestas, soldagem e têmpera a vácuo
+-  Espiral dupla forma",0.83,1,202.62,True,False,False,154981
+6210866,,Acessórios,19085,Broca Sds Max M4 25x200x320mm Bosch 2608685868,"Potência e resistência profissional para sua ferramenta.
+- Longa vida útil na perfuração em concreto
+-  Metal de alta durabilidade
+-  4 arestas, soldagem e têmpera a vácuo
+-  Espiral dupla forma",0.98,2,190.42,False,False,False,154981
+6210870,,Acessórios,451411,Broca SDS Plus 06x100x160mm Bosch 2608680263,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U",0.1,2,7,True,False,False,154981
+6210873,,Acessórios,451412,Broca SDS Plus 08x100x160mm Bosch 2608680270,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U",0.1,5,8.36,True,False,False,154981
+6210896,,Acessórios,451415,Broca SDS Plus 10x150x210mm Bosch 2608680274,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U",0.3,0,10.81,False,False,False,154981
+6210901,,Acessórios,451418,Broca SDS Plus 12x150x210mm Bosch 2608680278,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U.",0.3,0,12.17,False,False,False,154981
+6211042,,Acessórios,277584,Brocas para concreto CYL-1 Conjunto de 5 brocas Bosch 2608590090,"Jogo de brocas para concreto e pedra CYL-1
+Para trabalhar concreto, pedras artificiais e alvenaria.",0.14,2,27.02,True,False,False,154981
+6212969,,Acessórios,453368,Disco de Serra Circular ECO 184mm 40 dentes Bosch 2608644330,"Disco para Serra Circular 184mm Bosch Eco 40 dentes.
+Qualidade de corte adequada ao trabalho na obra.
+Durabilidade.
+Referência em qualidade no mercado de construção civil.",0.34,0,0,True,False,False,154981
+6212971,,Acessórios,454169,Disco de Serra Circular ECO 184mm 60 dentes Bosch 2608644331,"Disco para Serra Circular 184mm Bosch Eco 60 dentes.
+Qualidade de corte adequada ao trabalho na obra.
+Durabilidade.
+Referência em qualidade no mercado de construção civil.",0.34,0,62.54,True,False,False,154981
+6212973,,Acessórios,454170,Disco de Serra Circular ECO 254mm 40 Dentes Bosch 2608644335,"Disco para Serra Circular 254mm Bosch Eco 40 dentes.
+Qualidade de corte adequada ao trabalho na obra.
+Durabilidade.
+Referência em qualidade no mercado de construção civil.",0.86,2,130.96,True,False,False,154981
+6214621,,Acessórios,454957,Jogo de Bit 25 Peças Bosch 2607017404,"Jogo de pontas
+Forjados em aço de alta resistência
+Tirando a tampa da embalagem se transforma em cabo adaptador para bit",0.235,1,42.29,True,False,False,154981
+6214623,,Acessórios,452330,Jogo de Bits e Soquetes 46 Peças Bosch  2607019504,"Kit promoline reuni uma variedade de acessórios para resolver necessidades de trabalho do dia-a-dia;
+- Parafusadeira manual com punho magnético universal;
+- Estojo plástico com 46 unidades.",0.88,10,117.67,False,False,False,154981
+6214691,,Acessórios,453195,Jogo de Pontas e Chaves soquete 43 peças Bosch 2607017164,"Conjunto de pontas e chaves de caixa de 43 unidades
+Conjunto de 43 pontas de aparafusar com suporte universal de aperto rápido e suporte universal magnético.",0.66,0,118.91,False,False,False,154981
+6214697,,Acessórios,18654,Lâminas de Serra Tico Tico T111C Para Madeira com 5 Peças Bosch 2608667300,"Lâmina de aço rápido com carbono, cruzado e fresado;
+ Para madeira macia (4 a 50mm), placas de aglomerado e de fibras, corte rápido.",0.04,2,20.14,True,False,False,154981
+6214701,,Acessórios,18680,Lâminas de Serra Tico Tico HSS T118B Para Metal com 5 Peças Bosch 2608668146,"Lâmina de aço de corte rápido totalmente temperado;
+ Utilização em materiais mais duros, como metal, alumínio e metais não ferrosos;
+ Para chapas médias de metal (2,5 a 6mm).",0.03,2,23.06,True,False,False,154981
+6214702,,Acessórios,18678,Lâminas de Serra Tico Tico HSS T118A Para Metal com 5 Peças Bosch 2608668145,"Lâmina de aço de corte rápido totalmente temperado;
+ Utilização em materiais mais duros, como metal, alumínio e metais não ferrosos;
+ Chapas finas de metal (1 a 3mm).",0.03,0,22.62,True,False,False,154981
+6214726,,Acessórios,306492,Mandril 1/2 Pol. com Furo - Bosch 9617085001,"Mandril 1/2"" 9617085001 Bosch é ideal para furar aço, alumínio, madeira com brocas de haste cilíndrica.",0.36,0,29.77,True,False,False,154981
+6215641,,Acessórios,453800,Ponteira de Aço 400mm SDS Max Bosch 2608690235,"Cinzel pontiagudo SDS-Max,  400 mm",0.72,1,32.94,True,False,False,154981
+6215645,,Acessórios,455193,Ponteira de Aço 250mm SDS Plus Bosch 2608578517,Cinzelamento padrão em concreto e tijolo para vários trabalhos de renovação.,0.24,5,14.81,True,False,False,154981
+6215823,,Acessórios,18783,Talhadeira SDS Max 25x400mm Bosch  2608690237,Talhadeira 25 X 400MM SDS MAX 2608690237,0.7,0,32.94,True,False,False,154981
+6215824,,Acessórios,455194,Talhadeira SDS Plus 20x250mm Bosch 2608578519,Talhadeira 20 X 250M SDS PLUS,0.24,5,14.81,True,False,False,154981
+6216330,,Acessórios,453703,"Filtro de Papel para Aspiradores NT 20/1, A2104 e A 2214 (3 unidades) - Karcher 93022390","Kit com 3 unidades do filtro de papel para os aspiradores de pó Karcher modelos NT 20/1, A2104 e A22414.",0.17,2,41.26,True,False,False,154984
+6216338,,Acessórios,453784,Filtro Permanente para Aspirador NT 20/1 Karcher 57316040,Pode ser utilizado tanto na sucção de líquidos quanto pó. Mas cuidado: a remoção do filtro permanente pode prejudicar a turbina do equipamento e acarretar perda da garantia.,0.01,2,8.6,True,False,False,154984
+6216343,,Acessórios,453690,Tubo prolongador para aspirador de pó  NT20/1 A2003 A2004 A2114  Karcher 69020970,"Tubo prolongador para aspirador de pó A 2114
+Compatível com / Linha: A 2114",0.11,1,13.83,True,False,False,154984
+6216370,,Acessórios,453674,Aplicador de Detergente - Karcher 93020540,"Aplicador que pode ser acoplado … lavadora de alta pressão no lugar da tubeira para a aplicação do detergente para limpeza do seu veículo, pisos, etc.",0.24,0,36.49,True,False,False,154984
+6216466,,Acessórios,453691,Bico Turbo Simples  04 P/HD585 HD5/12 HD6/15 HD7/15 HD10/25 Karcher 93024940,"Bico Turbo Simples 04 
+Bico Turbo 041",0.55,0,282.01,True,False,False,154984
+6216469,,Acessórios,454331,Mangueira de alta pressão 5/16 de 10 metros para lavadora - Karcher 638910,Compatível com todos os modelos de Lavadoras de Alta Pressão Profissionais HD e HDS.,2.85,0,400.16,False,False,False,154984
+6216474,,Acessórios,453673,Detergente desengraxante automotivo com 5 litros - Karcher 93810570,"Detergente, desengraxante, constituído de matérias-primas nobres, sem solda c ustica e componentes derivados do petróleo.",5.9,1,146.22,True,False,False,154984
+6217055,,Acessórios,453675,"Mangueira de Alta Pressão HD 585  7,5 metros - Karcher 63895650","Item de reposição para Lavadoras de Alta Pressão KŽRCHER.
+Aplicação: para lavadoura HD 585.",0.83,0,0,False,False,False,154984
+6217057,,Acessórios,454851,Pistola com Mangueira HD585 / HD6/11 REPOS - Karcher 93118490,"Para reposição da pistola e mangueira de alta pressão nas Lavadoras de Alta Pressão Profissionais modelos: HD 585, HD 5/11, HD 5/12",1.88,0,421.35,True,False,False,154984
+6217062,,Acessórios,454373,Detergente para Limpeza de Piso 5 Litros Floor Care RM755 Karcher 93810610,"Uso em conjunto com lavadoras e secadoras de piso ou manualmente.
+Detergente de baixa espumação indicado para limpezas arraigadas em pisos vinílicos, cerâmicos, granilitos e pedras em geral.",5.57,1,107.16,True,False,False,154984
+6217228,,Acessórios,453672,Detergente em Pó para Extratora 800G - RM 760 - Karcher 93811710,"O Detergente RM760 ‚ um produto em pó, recomendado para uso com as extratoras Karcher ideal para limpeza de tapetes, sof s, bancos de carros, “nibus, carpetes etc, realiza limpeza profunda.",0.8,0,70.03,True,False,False,154984
+6217462,,Acessórios,453331,"Boina de lã para polimento 8"" Vonder  6099000008","Produzida em lã de carneiro, proporcionando maior durabilidade",0.06,0,25.07,False,False,False,154994
+6218173,,Acessórios,454786,Suporte para arame MIG de 15 kg Vonder  6899150150,Indicado para adaptar rolo de arame MIG com 15 kg na máquina minimig MM 150 Vonder,5.65,0,0,False,False,False,154994
+6218350,,Acessórios,450187,Niples com Porcas Gás Oxigênio Condor 911305,Acessórios destinados a unir as mangueiras aos reguladores e maçaricos.,0.07,2,24.05,True,False,False,155007
+6219145,,Acessórios,369811,Mangueira Alta Pressão 1/2 20m - Tramontina 79180526,"Cuidar do jardim tem que ser uma atividade prazerosa. Por isso, nada como ter uma mangueira totalmente adequada e resistente.",3.8,0,0,False,False,False,154983
+6219161,,Acessórios,23210,Centelhador CG - Carbografite 10000110,Utilizado para o acendimento de maçaricos e fogões a gás.,0.05,10,12.61,True,False,False,155014
+6219163,,Acessórios,23209,Limpador de Bico 13 Agulhas e Lima Carbografite 10149710,"Utilizado para a limpeza de bicos de corte e extensões de solda, não provocando o desgaste exagerado dos furos, pois não possui arestas cortantes como as brocas helicoidais.",0.03,10,9.65,True,False,False,155014
+6219164,,Acessórios,370780,Adaptador SDS Plus p/ Mandril de 1/2 P HTOM 17257,"Com este adaptador, é possível utilizar mandril comum em marteletes ou furadeiras de encaixe SDS Plus.",0.5,1,6.42,False,False,False,154998
+6252725,,Acessórios,454808,Filtro de água p/ Lavadora de Alta Pressão Karcher 47300590,"O filtro de  água protege as bombas da lavadora de pressão contra partículas de sujeira na água.
+",0.1,1,23.79,True,False,False,154984
+6279623,,Acessórios,455142,Jogo de Pontas e Brocas Titan. X-Line 30 pçs Bosch 2607019324,"Conjunto pensado para trabalhos de perfuração precisos e limpos em metal, pedra, madeira e ainda pontas aparafusadoras de grande qualidade para os formatos mais comuns de cabeça de parafuso.",0.5,1,85.05,True,False,False,154981
+6279625,,Acessórios,455141,"Jogo de Pontas, Brocas e Bits X Line 43 Pçs sextavadas Bosch 2607019613",Conjunto básico com equipamento de alta qualidade em mala robusta. Estão incluídos todos os componentes de perfuração e aparafusamento convencionais necessários para trabalhos em madeira e metal.,0.766,2,118.22,True,False,False,154981
+6284375,,Acessórios,19097,Broca Sds Max M4 25x400x520mm Bosch 2608685869,"Potência e resistência profissional para sua ferramenta.
+- Longa vida útil na perfuração em concreto
+-  Metal de alta durabilidade
+-  4 arestas, soldagem e têmpera a vácuo
+-  Espiral dupla forma
+",1.03,1,224.84,True,False,False,154981
+6284412,,Acessórios,453001,Jogo de Pontas e Brocas V-Line 41 pçs Bosch 2607017316,"Jogo de Acessórios com Brocas e Pontas para fixar e aparafusar com 41 peças Bosch V Line, a Bosch lança a linha V Line composta por uma linha de acessórios que juntam praticidade e custo benefício.
+",0.922,0,43.3,False,False,False,154981
+6284440,,Acessórios,454905,Jogo de Pontas e Brocas V-Line 41 pçs Bosch 2607017396,"Kit de Brocas e Bits 41 Peças Com Parafusadeira - Bosch V-LINE com 41 peças , ponteira em H, fabricadas em aço carbono, mais resistente para lidar com trabalhos de bricolagem.
+",0.85,2,92.02,True,False,False,154981
+6297433,,Acessórios,451414,Broca SDS Plus 10x150x160mm Bosch 2608680273,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U.",0.72,5,9.98,True,False,False,154981
+6297434,,Acessórios,451417,Broca SDS Plus 12x150x160mm Bosch 2608680277,"Apropriada para concreto e alvenaria.
+Indicada para todos os martelos perfuradores com encaixe SDS-plus.
+- Feita em metal duro;
+- Com 2 arestas de corte.
+- Espiral dupla forma de U.",0.85,5,11.07,True,False,False,154981
+6406432,,Acessórios,454970,Serra Copo Diamantada 19M 3/4 com Hast Starrett DE019M,Serra Copo Diamantada com Haste Caracterísitcas Linha completa de diâmetros de 14 a 152mm. Diamante industrial - alta performance. Haste de 150mm com encaixe hexagonal.,0.27,1,36.09,True,True,False,154986
+6406434,,Acessórios,454971,Serra Copo Diamantada 25M 1 com Haste Starrett DE025M,"Serra Copo Diamantada com Haste Caracterísitcas Linha completa de diâmetros de 14 a 152mm. Diamante industrial - alta performance. Haste de 150mm com encaixe hexagonal.
+
+",0.27,1,42.99,True,True,False,154986
+6406435,,Acessórios,454972,Serra Copo Diamantada 35M 1.3/8 com Haste Starrett DE035M,Serra Copo Diamantada com Haste Caracterísitcas Linha completa de diâmetros de 14 a 152mm. Diamante industrial - alta performance. Haste de 150mm com encaixe hexagonal.,0.395,1,57.29,True,True,False,154986
+6406436,,Acessórios,454973,Serra Copo Diamantada 50M 1.31/32 com Haste Starrett DE050M,Serra Copo Diamantada com Haste Caracterísitcas Linha completa de diâmetros de 14 a 152mm. Diamante industrial - alta performance. Haste de 150mm com encaixe hexagonal,0.395,2,76.72,True,True,False,154986
+6406437,,Acessórios,454974,Serra Copo Diamantada 65M 2.9/16 com Haste Starrett DE065M,"Serra Copo Diamantada com Haste Caracterísitcas Linha completa de diâmetros de 14 a 152mm. Diamante industrial - alta performance. Haste de 150mm com encaixe hexagonal,",0.395,1,114.71,True,True,False,154986
+6407164,,Acessórios,453471,Kit de Serra Copo Deep Cut - KDC 12 peças Starrett KDC09041-S,"kits de serras copo foi projetado para atender todo o mercado, incluindo eletricistas, encanadores, carpinteiros, engenheiros de instalação e profissionais da indústria.",2.194,1,582.14,True,True,False,154986
+6407389,,Acessórios,453500,Kit de Serra Copo Deep Cut - KDC 14 peças Starrett KDC11042-S,"Kit de serras copo foi projetado para atender todo o mercado, incluindo eletricistas, encanadores, carpinteiros, engenheiros de instalação e profissionais da indústria.
+",2.477,1,0,True,True,False,154986
+6550212,,Acessórios,144740,Broca Aço Rápido Haste Cônica  1.15/32 H. Fischer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",1.515,1,310,True,False,True,323910
+6550213,,Acessórios,190313,Broca Aço Rápido Haste Cônica  12.00 H. Fischer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,1,36.11,True,False,True,323910
+6550214,,Acessórios,144658,Broca Aço Rápido Haste Cônica  9/16  H. Fischer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.13,1,47.26,True,False,True,323910
+6550215,,Acessórios,190454,Broca Aço Rápido Haste Cônica  1/4 -Twill 42212,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.07,1,28.84,True,False,True,323911
+6550216,,Acessórios,57538,Broca Aço Rápido Haste Cônica  10.50 -Twill 41967,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,2,36.11,True,False,True,323911
+6550217,,Acessórios,57551,Broca Aço Rápido Haste Cônica  11.50 -Twill 41979,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.09,2,36.11,True,False,True,323911
+6550218,,Acessórios,19915,Broca Aço Rápido Haste Cônica  11.70 -Twill 41981,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,3,36.11,True,False,True,323911
+6550219,,Acessórios,57563,Broca Aço Rápido Haste Cônica  12.50 -Twill 41992,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,1,38.05,True,False,True,323911
+6550220,,Acessórios,56321,Broca Aço Rápido Haste Cônica  15/32 -Twill 42225,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,1,36.11,True,False,True,323911
+6550221,,Acessórios,56369,Broca Aço Rápido Haste Cônica  17/32 -Twill 42229,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.12,1,40.71,True,False,True,323911
+6550222,,Acessórios,120556,Broca Aço Rápido Haste Cônica  2.13/16 -Twill 42335,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",5.61,1,2049,True,False,True,323911
+6550223,,Acessórios,57354,Broca Aço Rápido Haste Cônica  2.5/32 -Twill 42321,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",3.965,1,731.64,True,False,True,323911
+6550224,,Acessórios,56370,Broca Aço Rápido Haste Cônica  35/64 -Twill 42230,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.13,2,40.71,True,False,True,323911
+6550225,,Acessórios,56394,Broca Aço Rápido Haste Cônica  37/64 -Twill 42232,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.225,1,27.01,True,False,True,323911
+6550226,,Acessórios,56450,Broca Aço Rápido Haste Cônica  43/64 -Twill 42238,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.27,2,53.8,True,False,True,323911
+6550227,,Acessórios,119281,Broca Aço Rápido Haste Cônica  5/16 -Twill 42215,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.08,1,30.54,True,False,True,323911
+6550228,,Acessórios,190417,Broca Aço Rápido Haste Cônica  7.50 -Twill 41931,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.075,3,90.31,True,False,True,323911
+6550229,,Acessórios,190466,Broca Aço Rápido Haste Cônica  1/4 LONGA-Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.06,1,28.84,True,False,True,323912
+6550230,,Acessórios,120490,Broca Aço Rápido Haste Cônica  2.15/32 -Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",4.705,1,1651,True,False,True,323912
+6550231,,Acessórios,57391,Broca Aço Rápido Haste Cônica  2.9/32 -Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",4.11,2,795.37,True,False,True,323912
+6550232,,Acessórios,56290,Broca Aço Rápido Haste Cônica  27/64 -Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,4,36.11,True,False,True,323912
+6550233,,Acessórios,20188,Broca Aço Rápido Haste Cônica  3/16 -Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.05,1,28.84,True,False,True,323912
+6550234,,Acessórios,190429,Broca Aço Rápido Haste Cônica  5.00 -Dormer,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.05,3,28.84,True,False,True,323912
+6550235,,Acessórios,119717,Broca Aço Rápido Haste Cônica  1/4  -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.07,3,28.84,True,False,True,323911
+6550236,,Acessórios,120650,Broca Aço Rápido Haste Cônica  10.70 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.9,1,36.11,True,False,True,323911
+6550237,,Acessórios,120661,Broca Aço Rápido Haste Cônica  11.00 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.95,6,36.11,True,False,True,323911
+6550238,,Acessórios,201055,Broca Aço Rápido Haste Cônica  12.80MM -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.105,1,38.05,True,False,True,323911
+6550239,,Acessórios,119428,Broca Aço Rápido Haste Cônica  17/32 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.135,1,40.71,True,False,True,323911
+6550240,,Acessórios,121264,Broca Aço Rápido Haste Cônica  41.00 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",1.835,1,397.92,True,False,True,323911
+6550241,,Acessórios,121368,Broca Aço Rápido Haste Cônica  46.00 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",2.14,1,476,True,False,True,323911
+6550242,,Acessórios,121424,Broca Aço Rápido Haste Cônica  49.00 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",2.335,1,534.37,True,False,True,323911
+6550243,,Acessórios,121504,Broca Aço Rápido Haste Cônica  53.00 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",3.795,1,680,True,False,True,323911
+6550244,,Acessórios,120636,Broca Aço Rápido Haste Cônica  9.50 -Twill,"Desenvolvidas para furar uma ampla gama de materiais, proporcionando desempenho eficiente com excelente relação custo-benefício.
+Ideal para quem necessita versatilidade de aplicação a um baixo custo",0.08,1,15,True,False,True,323911
+6578475,,Acessórios,,Kit de Serra Copo Deep Cut - KDC 13 peças Starrett KDC10041-S,"Nossa extensa linha de kits de serras copo foi projetada para atender todo o mercado, incluindo eletricistas, encanadores, carpinteiros, engenheiros de instalação e profissionais da indústria.",0.95,1,0,True,False,False,154986
+6581518,,Acessórios,455139,Kit de Serra Copo Fast Cut - KFC 10 peças Starrett KFC06041-S,Kit de Serra Copo Fast Cut,0.95,1,344.38,True,False,False,154986
+6582880,,Acessórios,454168,Disco de Serra Circular ECO 184mm 24 Dentes Bosch 2608644329,"Disco de serra com dentes de wídea para cortes de madeira na estrutura da construção. Ideal para cortes rústicos em tapumes, caixaria para baldrames, vigas, pilares e madeiras para escoramento.",0,1,39.53,True,False,False,
+6139879,,Alicates,450314,"Alicate bomba-d'água isolado 1.000 V 12"" - Tramontina 44039112","O alicate bomba-d'água ‚ a ferramenta que não pode faltar na manutenção de redes elétricas e instalações hidr ulicas, sendo tamb‚m muito utilizado em serviços de mecânica.",0.84,2,89.8,True,False,False,154983
+6139887,,Alicates,368513,Alicate Corte Diagonal 6 Pol Aço Cromo -Tramontina 44002106,"O alicate diagonal da Tramontina PRO ‚ utilizado no corte de fios e arames. Para garantir maior resistência e durabilidade, recebe tratamento térmico especial no gume de corte.",0.23,6,40.24,True,False,True,154983
+6139896,,Alicates,359307,Alicate Crimpador 9 Pol Com Regulagem - Tramontina 44055101,"O alicate crimpador da Tramontina PRO permite crimpar terminais com qualidade e rapidez. Suas mandíbulas podem ser trocadas, conferindo versatilidade ao produto.",0.54,0,0,True,False,False,154983
+6139898,,Alicates,359320,"Alicate Crimpador Rj11, Rj12 E Rj45 - Tramontina 44057100",O alicate crimpador da Tramontina PRO permite crimpar terminais com qualidade e rapidez. Quem ‚ PRO usa.,0.35,1,212.44,True,False,False,154983
+6139901,,Alicates,368549,Alicate De Pressão Mordente Triangular - Tramontina 44012110,"Prende, trava e não solta! Esta ‚ a principal característica do alicate de pressão da Tramontina PRO que auxilia na fixação de peças que serão cortadas, lixadas ou soldadas, por exemplo.",0.59,6,34.1,True,False,True,154983
+6139904,,Alicates,451471,"Alicate Desencapador 5"" polegadas - Tramontina  44051105",Este alicate permite ajustar o tamanho do fio a ser desencapado padronizando o seu comprimento o que otimiza a operação posterior de crimpagem com terminais normatizados.,0.1,1,84.27,True,False,False,154983
+6139906,,Alicates,359290,Alicate Desencapador De Fios Automático - Tramontina 44051108,"O alicate desencapador de cabos elétricos da Tramontina PRO oferece mais versatilidade aos trabalhos, pois permite crimpar terminais com e sem isolamento além dos de ignição.",0.4,1,141.44,True,False,False,154983
+6139909,,Alicates,451455,Alicate Desencapador De Fios Com Isolado - Tramontina 44051107,"O alicate desencapador de cabos elétricos da Tramontina PRO oferece mais versatilidade aos trabalhos, pois possui abertura regul vel atrav‚s de uma parafuso em sua mandíbula.",0.18,0,0,True,False,False,154983
+6139917,,Alicates,451351,Alicate hidráulico 16 A 300 mm para compressão de terminais 8ton - Tramontina -  44079018,"Por ter o bico longo,  muito utilizado nos serviços elétricos e de telefonia. Sua mandíbula possui espaço para corte de arames e espaço serrilhado para pegar objetos e mantê-los firmes.",6.8,0,0,True,False,False,154983
+6139921,,Alicates,368525,"Alicate Meia Cana 6"" polegadas Com Isolação - Tramontina 44004106","Por ter o bico longo, muito utilizado nos serviços elétricos e de telefonia. Sua mandíbula possui espaço para corte de arames e espaço serrilhado para pegar objetos e mantê-los firmes.",0.16,6,40.15,True,False,False,154983
+6139930,,Alicates,451350,Alicate para compressão de terminais 10 A 240 mm Manual 28 Pol. Cabo Teles. 44 - Tramontina 4408102,"O Alicate para compressão de terminais ‚ utilizado em terminais e luvas tubulares em alumínio e cobre. Maior resistência, conforto e segurança em suas mãos.",3.9,1,1549.15,True,False,False,154983
+6218598,,Alicates,368537,"Alicate Universal 8"" Laranja Aço Cromo Vanádio Tramontina 44000108","Versátil, o alicate universal da Tramontina PRO foi projetado para ser utilizado nas mais diversas operações, como puxar, prender, enrolar, deformar e cortar.",0.45,12,35.62,True,False,True,154983
+6218604,,Alicates,452097,"Alicate Universal Eletricista 8"" Aço Cromo Vanádio Tramontina 44000128","Versátil, o alicate universal da Tramontina PRO foi projetado para ser utilizado nas mais diversas operações, como puxar, prender, enrolar, deformar e cortar.",0.45,6,52.76,True,False,False,154983
+6219158,,Alicates,453391,Rebitador Carga Pesada Alumínio Fundido - Tramontina 44024018,As montagens de estruturas ficam muito mais rápidas com o rebitador da Tramontina PRO. A ferramenta certa para você que necessita de praticidade e agilidade.,1.73,1,434.43,True,False,False,154983
+6219160,,Alicates,452709,Rebitador Com Cabeça Giratória Em Aço - Tramontina 44068113,As montagens de estruturas ficam muito mais rápidas com o rebitador da Tramontina PRO. Sua cabeça giratória de 360§ permite o uso em locais de difícil acesso.,0.77,0,0,True,False,False,154983
+6252726,,Alicates,158571,"Alicate bomba-d'água isolado 1.000 V 10"" - Tramontina 44038110","O alicate bomba-d'água ‚ a ferramenta que não pode faltar na manutenção de redes elétricas e instalações hidr ulicas, sendo tamb‚m muito utilizado em serviços de mecânica.
+",0.5,4,68.65,True,False,False,154983
+6380036,,Alicates,41020,"Alicate corte diagonal 6"" com isolamento 8314/160 IOX Gedore 29487","Material do corpo do alicate: Aço cromo vanádio 
+Comprimento total do alicate: 6.5/16"" - 160 mm 
+Acabamento do alicate: Fosfatizado com faces polidas 
+Tipo do cabo do alicate.: Cabo isolado 1000 V",0,6,52.11,True,False,False,154982
+6380039,,Alicates,10318,Alicate Pressão 10  137/10 Gedore 29010,"Mordentes em aço Gedore-Vanadium e demais componentes em aço especial. Corpo com acabamento niquelado e cromado e parafuso de regulagem escurecido.
+",0,6,34.11,True,False,False,154982
+6380044,,Alicates,41320,Alicate tipo telefone bico reto IOX Isolado Gedore 29610,"Corpo em aço Gedore-Vanadium e empunhadura em polímero anti-chamas na cor laranja padrão Gedore. Acabamento escurecido. Empunhadura ergonômica e antideslizante, com abas protetoras arredondadas.",0,6,54.85,True,False,False,154982
+6578382,,Alicates,9370,Alicate Universal IOX isolado 8280-200 Gedore 29400,"Acabamento escurecido e faces lixadas. Empunhadura ergonômica e antideslizante, com abas protetoras arredondadas para maior conforto e segurança.",0.39,6,39.34,True,False,False,154982
+6408269,,Amperímetro,243986,Alicate Amperímetro Digital ET-3200 Minipa,O instrumento é construído com barreiras protetoras para a mão que garante a operação segura do instrumento; um gabinete retardante de chama; e circuito eletrônico de proteção.,0.505,2,119.01,True,True,False,154988
+6408272,,Amperímetro,451806,Alicate Amperímetro Digital ET-3200B Minipa,Os alicates amperímetros digitais modelos ET-3111 e ET-3200B possui mudança de faixa manual e leitura máxima de 1999 contagens.,0.505,0,249.63,True,True,False,154988
+6577739,,Amperímetro,450655,Alicate Amperímetro Digital ET-3111 Minipa,"Este instrumento foi projetado para uso em laboratório, em casa ou em qualquer circunstância onde a medida de corrente elevada seja necessária de acordo com sua categoria de segurança.",0.345,1,202.55,True,False,False,154988
+6577740,,Amperímetro,333168,Alicate Amperímetro Digital ET-3880 Minipa,"Possui display de 4 dígitos com iluminação de fundo e leitura True RMS. Destaca-se pela capacidade de medir saídas de inversores com formas de onda moduladas.
+",0.36,0,1108.63,True,False,False,154988
+6218684,,Arcos de Serra,372194,"Arco de serra regulável 12"" - Tramontina 44033012","O arco de serra ‚ uma ferramenta de grande aplicação, pois pode ser usado no corte de metais diversos não endurecidos, metais não ferrosos como alumínio e cobre, plásticos, acrílico, entre outros.",0.72,2,64.57,True,False,False,154983
+6139945,,Aspiradores,,Aspirador pó e liquido NT 38/1 Me Classic 220V Karcher 14285360,Aspirador profissional com reservatório em inox. Desenvolvidos para atender estabelecimentos comercial que utilizam os aspiradores com maior frequência e têm necessidade de aspirar pó e líquido.,12.5,0,1461.22,False,False,False,154984
+6139949,,Aspiradores,,Aspirador de Pó e Líquido 1380W 48L NT48/1 220V Karcher 93986600,"Ergonômicos e robusto, o aspirador NT 48/1 da Karcher possui um grande reservatório e uma alta eficiência de limpeza. Ideal para lavacar, limpadoras comércios em geral, entre outros.",13.9,0,2294.61,False,False,False,154984
+6139951,,Aspiradores,,Aspirador de Pó e Líquido NT 90/2 Me Classic 220V Karcher 16677050,Com seu generoso container em INOX de 90 litros o aspirador NT 90/2 Me Classic com suas duas turbinas independentes tem um alto poder de sucção. Permite a aspiração de grandes quantidades de sujeira.,19,0,0,False,False,False,154984
+6139959,,Aspiradores,,Aspirador de Pó e Líquido NT 75/2  TACT ME 220V Karcher 93986870,"O aspirador NT 75/2 Me Tactý ‚ indicado para uso em indústrias, construções, setores agrícolas, comércios, hotéis restaurantes, empresas limpadoras, etc.",38.2,0,12061.82,False,False,False,154984
+6139961,,Aspiradores,,Aspirador de Pó e Líquido NT 20/1 Karcher,"Aspirador profissional de pó e liquido, compacto e robusto. Possui suporte para Acessórios e cabo elétrico integrado. Ideal para limpeza de residências, comércios em geral, entre outros.",7.3,1,323.66,True,False,False,154984
+6139978,,Aspiradores,,Aspirador de Pó e Líquido NT 65/2 Eco 220V Karcher 13251420,"Aspirador profissional de pó e líquido com duas turbinas, compacto, robusto e alta eficiência de limpeza. Ideal para construção, oficinas mecânica, concessionárias, limpadora, entre outros.",27,0,5294.01,False,False,False,154984
+6253263,6139945,Aspiradores,452157,,,12.5,0,1461.22,False,False,False,154984
+6253339,6139961,Aspiradores,451566,,,7.3,1,323.66,True,False,False,154984
+6253340,6139949,Aspiradores,450191,,,13.9,0,2294.61,False,False,False,154984
+6253345,6139951,Aspiradores,454040,,,19,0,0,True,False,False,154984
+6253348,6139959,Aspiradores,454503,,,38.2,0,12061.82,False,False,False,154984
+6253350,6139978,Aspiradores,311103,,,27,0,5294.01,False,False,False,154984
+6368026,,Aspiradores,,Aspirador de Pó APV 1000  Vonder,"Aspira sólidos e líquidos, indicado para uso profissional na limpeza de pisos, carpetes, móveis, veículos, entre outros. Nível de potência sonora: 92 dB (A).",5.178,1,479.91,True,False,False,154994
+6368029,6368026,Aspiradores,455324,,,5.178,1,479.91,True,False,False,154994
+6368030,6368026,Aspiradores,455325,,,5.178,1,479.91,True,False,False,154994
+6368031,,Aspiradores,,Aspirador de Pó APV 1240 Vonder,"Aspira sólidos e líquidos. Indicado para uso profissional: condomínios, escritórios, lava-car, entre outros. Nível de potência sonora: 88 dB (A).",11.8,1,1106.77,True,False,False,154994
+6368032,6368031,Aspiradores,455326,,,11.8,2,1106.77,True,False,False,154994
+6368033,6368031,Aspiradores,455327,,,11.8,0,1106.77,True,False,False,154994
+6380342,6139961,Aspiradores,451459,,,0,0,323.66,True,False,False,154984
+6141534,,Bico de Corte,331673,Bico de Corte 1502 AC Nº 10  Condor 404842,"Os diversos tipos de bicos de corte são escolhidos em função da espessura de corte, velocidade do corte, tipo/modelo do maçarico e gás combustível utilizados.",0.11,6,26.65,True,False,False,155007
+6141538,,Bico de Corte,335360,Bico de Corte 1502 AC Nº 12 Condor 404843,"Os diversos tipos de bicos de corte são escolhidos em função da espessura de corte, velocidade do corte, tipo/modelo do maçarico e gás combustível utilizados.",0.11,6,26.65,True,False,False,155007
+6141540,,Bico de Corte,258649,Bico de Corte 1502 AC Nº  4 Condor 404992,"Os diversos tipos de bicos de corte são escolhidos em função da espessura de corte, velocidade do corte, tipo/modelo do maçarico e gás combustível utilizados.",0.11,2,26.65,True,False,False,155007
+6141543,,Bico de Corte,259892,Bico de Corte 1502 AC Nº  6 Condor 404993,"Os diversos tipos de bicos de corte são escolhidos em função da espessura de corte, velocidade do corte, tipo/modelo do maçarico e gás combustível utilizados.",0.11,6,26.65,True,False,False,155007
+6141545,,Bico de Corte,259900,Bico de Corte 1502 AC Nº  8 Condor 404994,"Os diversos tipos de bicos de corte são escolhidos em função da espessura de corte, velocidade do corte, tipo/modelo do maçarico e gás combustível utilizados.",0.11,6,26.65,True,False,False,155007
+6218732,,Bolsa e Mochila,453087,Bolsa Para Ferramentas Nylon 24 Bolsos - Tramontina 44952024,Manter as ferramentas organizadas e facilitar o transporte das peças de um lado para o outro ‚ a finalidade dos organizadores para ferramentas da Tramontina PRO.,2,2,227.49,True,False,False,154983
+6219157,,Bolsa e Mochila,453409,Mochila Porta Ferramentas 23 Bolsos  -  Tramontina 44952025,Manter as ferramentas organizadas e facilitar o transporte das peças de um lado para o outro ‚ a finalidade dos organizadores para ferramentas da Tramontina PRO.,2.6,0,0,True,False,False,154983
+6407473,,Bolsa e Mochila,452682,Bolsa para Ferramentas Compacta 300x170x220mm Starrett BGS,"Compacta, é ideal para transportar ferramentas para pequenos serviços. Possui compartimento principal com zíper, alça removível para ombro, alça de transporte reforçada e bolsos externos e internos.
+",0.865,0,0,True,True,False,154986
+6407477,,Bolsa e Mochila,452681,Bolsa para Ferramentas Média 400x220x320mm Starrett BGM,"Bolsa para Ferramentas Média - BGM Com base reforçada em plástico ABS, é resistente e preparada para serviço pesado. Seu compartimento principal com zíper oferece segurança e facilidade para armazenam",1.13,1,135.84,True,True,False,154986
+6140064,,Carregador de Bateria,454678,Auxiliar de partida portátil APV 4000 Vonder 6847004000,"Indicado para auxiliar na partida de veículos em situações com baixo nível de carga da bateria ou totalmente descarregada, com capacidade de auxiliar em cerca de 10 partidas",0.9,0,0,False,False,False,154994
+6140086,,Carregador de Bateria,,Carregador de bateria CBV 1600 Vonder,"Indicado para recarregar baterias automotivas do tipo chumbo ácida de 12V. Não recarrega baterias de 24V. Corrente de entrada: 1,5 A.",6.9,1,433.37,True,False,False,154994
+6257323,6140086,Carregador de Bateria,452627,,,6.9,2,433.37,True,False,False,154994
+6257325,6140086,Carregador de Bateria,453283,,,6.9,2,433.37,True,False,False,154994
+6140094,,Carregador de Bateria,453146,Carregador de bateria CBV 5200 127 V~/220 V Vonder 6847520000,Indicado para recarregar baterias automotivas do tipo chumbo ácida de 12 V e 24 V. Corrente máxima do auxiliar de partida: 300 amperes. Dimensões C x L x A: 295 mm x 350 mm x 760 mm (com rodas e alça),15,1,1461.88,True,False,False,154994
+6140246,,Carregador de Bateria,454667,"Carregador de bateria CIB 003 127 V~ 220 V~, moto, Vonder 6847003000","Indicado para carregar ou manter a carga de baterias 12 V do tipo chumbo ácida convencional e VRLA (AGM e Gel), de MOTOCICLETAS, automóveis, entre outros veículos ou equipamentos.",0.35,2,133.04,True,True,False,154994
+6257328,,Carregador de Bateria,,Carregador de bateria CBV  950 Vonder,Indicado para recarregar baterias automotivas do tipo chumbo ácida de 12V. Não recarrega baterias de 24V.,4.65,1,352.02,True,False,False,154994
+6257330,6257328,Carregador de Bateria,452628,,,4.65,1,352.02,True,False,False,154994
+6257331,6257328,Carregador de Bateria,453751,,,4.65,1,352.02,True,False,False,154994
+6218740,,Chaves Ajustáveis,450104,Chave Ajustável em Aço Cromo Vanádio 06 Polegadas - Tramontina 44022106,"Versátil, a chave ajustável da Tramontina PRO possui abertura regulável, o que permite apertar e afrouxar parafusos e porcas de diferentes tamanhos com apenas uma peça.",0.13,2,43.9,True,False,False,154983
+6218747,,Chaves Ajustáveis,450720,Chave Ajustável em Aço Cromo Vanádio 10 Polegadas - Tramontina  44022110,"Versátil, a chave ajustável da Tramontina PRO possui abertura regulável, o que permite apertar e afrouxar parafusos e porcas de diferentes tamanhos com apenas uma peça.",0.42,2,67.7,True,False,False,154983
+6218754,,Chaves Ajustáveis,450105,Chave Ajustável em Aço Cromo Vanádio 12 Polegadas - Tramontina  44022112,"Versátil, a chave ajustável da Tramontina PRO possui abertura regulável, o que permite apertar e afrouxar parafusos e porcas de diferentes tamanhos com apenas uma peça.",0.7,2,93.51,True,False,False,154983
+6218760,,Chaves Ajustáveis,452098,Chave Ajustável em Aço Cromo Vanádio 08 Polegadas - Tramontina 44022108,"Versátil, a chave ajustável da Tramontina PRO possui abertura regulável, o que permite apertar e afrouxar parafusos e porcas de diferentes tamanhos com apenas uma peça.",0.26,2,50.97,True,False,False,154983
+6380064,,Chaves Ajustáveis,243556,Chave Ajustável 10 191G Gedore 28313,"A Chave Ajustável de 10"" da marca GEDORE, foi fabricada em Aço-liga de alta resistência mecânica. Tem acabamento escurecido e cabeça lixada.",0,6,61.32,True,False,False,154982
+6380066,,Chaves Ajustáveis,243532,Chave Ajustável  6 191G Gedore 28311,"A Chave Ajustável de 6"" da marca GEDORE, foi fabricada em Aço-liga de alta resistência mecânica. Tem acabamento escurecido e cabeça lixada.",0,6,37.7,True,False,False,154982
+6380074,,Chaves Ajustáveis,243544,Chave Ajustável  8 191G Gedore 28312,"A Chave Ajustável de 8"" da marca GEDORE, foi fabricada em Aço-liga de alta resistência mecânica. Tem acabamento escurecido e cabeça lixada.",0,6,49.21,True,False,False,154982
+6363299,,Chaves para Tubos,7166,"Chave para tubo 14"" Gedore 33140","A chave para tubos é regulável, versátil e de fácil manuseio. É uma ferramenta que não deve faltar em oficinas e indústrias que trabalham com montagens e desmontagens de tubulações em geral.",1.6,6,60.63,True,False,True,154982
+6217466,,Cinta Amarração Catraca,451224,"Jogo de cinta com catraca p/amarração, 0,8 toneladas/0,4 toneladas, CC 080 Vonder 8014250080",Indicada para amarração de cargas. Proibido uso de alavanca no punho da catraca móvel. Proibido uso para içamento de cargas.,0.38,10,31.04,True,False,False,154994
+6217467,,Cinta Amarração Catraca,451226,"Jogo de cinta com catraca p/amarração, 1,5 toneladas/0,75 toneladas, CC 150 Vonder 8014280150",Indicada para amarração de cargas. Proibido uso de alavanca no punho da catraca móvel. Proibido uso para içamento de cargas.,0.65,10,49.39,True,False,False,154994
+6217468,,Cinta Amarração Catraca,451227,"Jogo de cinta com catraca p/ amarração, 3 toneladas/1,5 toneladas, CC 300  Vonder 8014500300",Indicada para amarração de cargas. Proibido uso de alavanca no punho da catraca móvel. Proibido uso para içamento de cargas.,1.99,10,118.08,True,False,False,154994
+6217469,,Cinta Amarração Catraca,451228,"Jogo de cinta com catraca p/ amarração, 4 toneladas/2 toneladas, CC 400 Vonder 8014500400",Indicada para amarração de cargas. Proibido uso de alavanca no punho da catraca móvel. Proibido uso para içamento de cargas.,2.19,10,139.88,True,False,False,154994
+6252824,,Cinta Amarração Catraca,455091,"Cinta c/ catraca 50mm 4000kg x 9,00mt 5049 Carbografite 12409112","Utilizadas em transporte de cargas, motocicletas, barco de pequeno porte, cilindros de gases e equipamentos em geral.",2.15,1,112.69,True,False,False,155014
+6252825,,Cinta Amarração Catraca,455090,"Cinta c/ catraca 50mm 3000kg x 9,00mt 5039 Carbografite 12409012","Utilizadas em transporte de cargas, motocicletas, barco de pequeno porte, cilindros de gases e equipamentos em geral",1.9,1,94.04,True,False,False,155014
+6252827,,Cinta Amarração Catraca,455089,"Cinta c/ catraca 35mm 2000kg x 5,00mt  3525 Carbografite 12408812","Utilizadas em transporte de cargas, motocicletas, barco de pequeno porte, cilindros de gases e equipamentos em geral
+",0.9,2,53.76,True,False,False,155014
+6252829,,Cinta Amarração Catraca,455088,Cinta c/ catraca 25mm 400kg x 4.60mt 250446 Carbografite 12600612,1 conjunto Largura da fita poliéster: 25mm Terminal: “J”,0.4,1,30.92,True,False,False,155014
+6384423,,Cinta Amarração Catraca,455255,"Cinta c/ catraca 50mm 5000kg x 7,00mt 5047 Carbografite 12472412","Utilizadas em transporte de cargas, motocicletas, barco de pequeno porte, cilindros de gases e equipamentos em geral.
+Fator de segurança: 2:1.",2.3,0,0,True,False,False,155014
+6212948,,Cortador de Metal,,Cortadora de metal GCO 2000W Profissional Bosch,"Cortadora de metal Bosch GCO 2000 Profissional
+Solução para trabalhos de desbaste em metal.
+- Compacta, ergonômica e versátil.
+- Motor robusto de 500 W para aplicações de desbaste em metal.
+",18.44,0,1239.58,False,False,False,154981
+6253638,6212948,Cortador de Metal,342651,,,18.44,0,1239.58,False,False,False,154981
+6261775,6212948,Cortador de Metal,342663,,,18.44,0,0,False,False,False,154981
+6212949,,Cortador de Metal,,Cortadora de metal GCO 14-24 2400W Profissional Bosch,"Serra de corte para metal
+Bosch GCO 14-24 Professional
+Potência redefinida em serras de corte de 14""""
+- Alta capacidade de sobrecarga para as aplicações mais exigentes
+",18.5,1,0,True,False,False,154981
+6253639,6212949,Cortador de Metal,453962,,Cortadora de metal GCO 2400W 14-24 Profissional 220V Bosch 0601B370E0,18.5,0,0,True,False,False,154981
+6298907,6212949,Cortador de Metal,455190,,Cortadora de metal GCO 2400W 14-24 Profissional 127V Bosch 0601B370d0,18.5,0,0,True,False,False,154981
+6206764,,Disco de Corte,317525,"Disco de Corte para Inox 115mm x 2,0mm x 22,23mm Reto c/2Telas Grão 30 Bosch 2608600520",O selo ABNT é mais um motivo para preferir discos de corte Bosch. Além do mais alto desempenho e rendimento. A marca de segurança é mais uma garantia de satisfação dos usuários.,0.04,20,5.87,True,False,False,154981
+6206765,,Disco de Corte,451406,"Disco de Corte para Metal 115mm x 2,5mm x 22,23mm Grão 30 Bosch 2608603164","Discos de corte para metal com boa potência e preço apelativo.
+Direita A 30 S BF, 115 mm, 22,23 mm, 2,5 mm",0.06,0,2.58,True,False,False,154981
+6206766,,Disco de Corte,451407,"Disco de Corte para Metal 180mm x 3,0mm x 22,23mm Grão 30  Bosch 2608603167","Discos de corte para metal com boa potência e preço apelativo.
+Direita A 30 S BF, 180 mm, 22,23 mm, 3,0 mm",0.2,20,4.17,True,False,False,154981
+6206767,,Disco de Corte,317537,"Disco de Corte para Inox 180mm x 2,0mm x 22,23mm Grão 30 Bosch 2608600521",O selo ABNT é mais um motivo para preferir discos de corte bosch. Além do mais alto desempenho e rendimento. A marca de segurança é mais uma garantia de satisfação dos usuários.,0.2,20,9.82,True,False,False,154981
+6298910,,Disco de Corte,455056,"Disco de Corte para Inox 115mm x 1,0mm x 22,23mm Reto c/2Telas Grão 30 Bosch 2608603169","Forma de disco:Direita
+Rapido, cortes muito rápidos e limpos, sem formação de rebarbas ou descoloração azul
+",0.03,20,2.14,True,False,False,154981
+6206827,,Disco de Desbate,451409,"Disco de Debaste para Metal 180mm x 6,0mm x 22,23mm Grão 24 Bosch 2608603183","Disco de rebarbar curvo Standard for Metal
+A 24 P BF, 180 mm, 22,23 mm, 6,0 mm
+Discos de corte para metal com boa potência",0.4,20,6.79,True,False,False,154981
+6206831,,Disco de Desbate,451408,"Disco de Debaste Para Metal 115mm x 6,0mm x 22,23mm Grão 24 Bosch 2608603181","Disco de rebarbar curvo Standard for Metal
+A 24 P BF, 115 mm, 22,23 mm, 6,0 mm
+Discos de corte para metal com boa potência",0.2,1,3.68,True,False,False,154981
+6206833,,Disco de Desbate,317513,"Disco de Desbaste para Inox 180mm x 6,4mm x 22,23mm Grão 30 Bosch 2608600505",O Disco de Debaste para Inox oferece uma longa vida útil e rapidez no trabalho.,0.4,20,10.08,True,False,False,154981
+6206834,,Disco de Desbate,317501,"Disco de Desbaste para Inox 115mm x 6,4mm x 22,23mm Grão 30 Bosch 2608600504","Disco Desbaste p O Disco de Debaste para Inox oferece uma longa vida útil e rapidez no trabalho.
+DISCO DE DESBASTE 4.1/2 X 1/4 X 7/8 A/I",0.2,20,5.9,True,False,False,154981
+6212956,,Disco de Lixa,453284,Disco de Lixa com velcro 125mm Grão  80 com 8 furos 5 Unidades Bosch 2608605069,"Disco de lixa com 8 furos para madeira com, tinta, verniz, massa de aparelhar
+Com revestimento de estearato de cálcio, impede a obstrução prematura.",0.05,5,15.99,True,False,False,154981
+6212959,,Disco de Lixa,453249,Disco de Lixa com velcro 125mm Grão 100 com 8 furos 5 Unidades Bosch 2608605070,"Disco de lixa com 8 furos para madeira com, tinta, verniz, massa de aparelhar
+Com revestimento de estearato de cálcio, impede a obstrução prematura.",0.05,5,15.99,True,False,False,154981
+6212965,,Disco de Lixa,453250,Disco de Lixa com velcro 125mm Grão 120 com 8 furos 5 Unidades Bosch 2608605071,"Disco de lixa com 8 furos para madeira com, tinta, verniz, massa de aparelhar
+Com revestimento de estearato de cálcio, impede a obstrução prematura.",0.05,5,15.99,True,False,False,154981
+6212975,,Disco de Lixa,453248,Disco de Lixa com velcro 125mm Grão  60 com 8 furos 5 Unidades Bosch 2608605068,"Para lixar madeira, tinta, verniz, massa de aparelhar.
+Revestimento de estearato de cálcio, impede a obstrução prematura.
+Lixas na cor amarela.",0.05,1,16.95,True,False,False,154981
+6207502,,Disco Flap,455081,"Disco Flap 115mm x 22,23mm Grão  40 Bosch 2608619288","Disco Flap 4 1/2"""" Gr 40 115mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.08,10,5.97,True,False,False,154981
+6207522,,Disco Flap,455082,"Disco Flap 115mm x 22,23mm Grão  60 Bosch 2608619289","Disco Flap 4 1/2"""" Gr 60 115mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.06,10,5.97,True,False,False,154981
+6207535,,Disco Flap,455083,"Disco Flap 115mm x 22,23mm Grão  80 Bosch 2608619290","Disco Flap 4 1/2"""" Gr 80 115mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.06,10,5.97,True,False,False,154981
+6207555,,Disco Flap,455080,"Disco Flap 115mm x 22,23mm Grão 120 Bosch 2608619291","Disco Flap 4 1/2"""" Gr 120 115mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.06,10,5.97,True,False,False,154981
+6207600,,Disco Flap,455085,"Disco Flap 180mm x 22,23mm Grão  40 Bosch 2608619292","Disco Flap 7"""" Gr 40 180mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.17,5,15.17,True,False,False,154981
+6207685,,Disco Flap,455086,"Disco Flap 180mm x 22,23mm Grão  60  Bosch 2608619293","Disco Flap 7"""" Gr 60 180mm 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.17,1,15.17,True,False,False,154981
+6208602,,Disco Flap,455087,"Disco Flap 180mm x 22,23mm Grão  80  Bosch 2608619294","Disco Flap 7"""" Gr 80 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.
+",0.15,5,15.17,True,False,False,154981
+6208603,,Disco Flap,455084,"Disco Flap 180mm x 22,23mm Grão 120  Bosch 2608619295","Disco Flap 7"""" Gr 120 22,23mm Curvo para Metal 
+Para atender os usuários que necessitam de um disco agressivo a um baixo custo, ideal para um rápido desbaste.",0.15,5,15.17,True,False,False,154981
+6140281,,Eletrodos,454015,"ELETRODO E-308L 2,5MM PERFORM CX C/4,5KG - UTP 26762",Eletrodo Cr-Ni otimizado para ótima soldabilidade de aços inoxidáveis austeníticos.,4.65,45,67.86,True,False,False,155006
+6140283,,Eletrodos,453964,"ELETRODO E-308L 3,25MM PERFORM CX C/5KG - UTP 26764",Eletrodo Cr-Ni otimizado para ótima soldabilidade de aços inoxidáveis austeníticos.,5.15,5,67.86,True,False,False,155006
+6141425,,Eletrodos,453963,"ELETRODO E-316L 2,5MM PERFORM CX C/5KG - UTP 26753",Eletrodo Cr-Ni otimizado para ótima soldabilidade de aços inoxidáveis austeníticos.,5.11,0,343.1,True,False,False,155006
+6141435,,Eletrodos,454096,"ELETRODO E-316L 3,25MM PERFORM CX C/5KG - UTP 26755",Eletrodo Cr-Ni otimizado para ótima soldabilidade de aços inoxidáveis austeníticos.,5.15,10,82.26,True,False,False,155006
+6141443,,Eletrodos,453680,"ELETRODO E-6013 2,5MM PERFORM CX C/5KG - UTP 26715",Eletrodo rutílico com revestimento fino; solda em todas as posições e principalmente com excelente característica de soldagem na vertical descendente.,5.15,10,21.68,True,False,False,155006
+6141445,,Eletrodos,453681,"ELETRODO E-6013 3,25MM PERFORM CX C/5KG - UTP 26719",Eletrodo rutílico com revestimento fino; solda em todas as posições e principalmente com excelente característica de soldagem na vertical descendente.,5.22,10,22.3,True,False,False,155006
+6141453,,Eletrodos,453682,"ELETRODO E-7018 2,5MM PERFORM CX C/5KG - UTP 26732",Eletrodo básico com excelentes características de soldagem. Rendimento metálico de 110%. Ideal para soldagem de aços com baixos teores de impurezas e elevados teores de carbono.,5.13,10,23.11,True,False,False,155006
+6141470,,Eletrodos,453683,"ELETRODO E-7018 3,25MM PERFORM CX C/5KG - UTP 26740",Eletrodo básico com excelentes características de soldagem. Rendimento metálico de 110%. Ideal para soldagem de aços com baixos teores de impurezas e elevados teores de carbono.,5.12,10,23.03,True,False,False,155006
+6208701,,Esmerilhadeira,,Esmerilhadeira Angular LCM 9004 830W com 5 Discos SKIL,"Botão-trava para fácil e rápida troca do disco.
+Leve e compacta, garante um maior conforto ao operador.
+Ideal para restaurações, lixamento e limpeza de chapas.",2.5,0,0,False,False,False,227246
+6253199,6208701,Esmerilhadeira,453186,,,2.5,0,0,False,False,False,227246
+6255053,6208701,Esmerilhadeira,453187,,,2.5,0,0,False,False,False,227246
+6257144,,Esmerilhadeira,,Esmerilhadeira Angular GWS  9-125 Profissional Bosch,"900 W desenvolvidos para trabalhos difíceis!
+Desempenho superior ao esmerilhar/cortar devido à alta potência e torque a 900 W.",2.35,1,375.39,True,False,True,154981
+6257153,6257144,Esmerilhadeira,454859,,,2.35,2,375.39,True,False,False,154981
+6257155,6257144,Esmerilhadeira,454860,,,2.35,2,375.39,True,False,False,154981
+6210352,,Esmerilhadeira,,Esmerilhadeira Angular GWS 22-180 Profissional Bosch,"Novo motor, ainda mais leve, potente e durável, com proteção do induzido contra pó e faíscas e prático sistema de troca de escovas de carvão.",5.52,1,630.82,True,False,False,154981
+6257390,6210352,Esmerilhadeira,363253,,,5.52,1,630.82,True,False,False,154981
+6257391,6210352,Esmerilhadeira,363321,,,5.52,1,630.82,True,False,False,154981
+6263707,,Esmerilhadeira,454861,Esmerilhadeira Angular GWS  9-125 S Profissional Bosch 06013961E0,Esmerilhadeira angular. Motor Champion de grande potência e escovas de grafite artificial de longa duração. Estável mesmo em estado de ruptura do disco.,2.36,0,0,True,False,False,154981
+6375471,,Esmerilhadeira,,Esmerilhadeira Angular GWS 850 M14 Profissional Bosch,Esmerilhadeira angular Bosch de alto rendimento dentro de seu orçamento!,2.16,1,302.3,True,True,False,154981
+6375499,6375471,Esmerilhadeira,455000,,,2.16,2,302.29,True,True,False,154981
+6375501,6375471,Esmerilhadeira,455140,,,2.16,5,302.29,True,True,False,154981
+6375505,,Esmerilhadeira,,Esmerilhadeira Angular 9004 830W 4.1/2 c/2 discos+Bolsa Skil,Esmerihadeira Angular 9004 4.1/2 acompanha bolsa para transporte e dois discos de corte,2.79,0,224.63,True,False,False,227246
+6375510,6375505,Esmerilhadeira,454802,,,2.79,5,224.63,True,False,False,227246
+6375511,6375505,Esmerilhadeira,454803,,,2.79,1,224.63,True,False,False,227246
+6213067,,Ferramentas Bateria,452941,Furadeira/Parafusadeira GSR 1000 a Bateria 12V Smart Profissional Bivolt  Bosch 06019F40E0,"Furadeira/parafusadeira sem fio
+Bosch GSR 1000 SMART Professional
+Não subestime o seu poder!
+- Longa vida útil da bateria graças ao sistema ECP, que previne sobrecarga.",1.74,0,341.42,True,False,False,154981
+6213166,,Ferramentas Bateria,453377,Furadeira/Parafusadeira a Bateria 12V  GSR 120 LI Bivolt com 2 Baterias e Maleta Bosch 06019F70E0,"Furadeira/parafusadeira sem fio
+Bosch GSR 120-LI Professional
+Qualidade Bosch, alta potência, preço acessível!
+- Acessível: qualidade Bosch a um preço acessível!",2.4,0,0,False,False,False,154981
+6213167,,Ferramentas Bateria,453741,"Furadeira/Parafusadeira GSR  140 LI a Bateria 14,4V  Bivolt com 2 Baterias e Maleta Bosch 06019F80E0","Furadeira/parafusadeira sem fio
+Bosch GSR 140-LI Professional
+Mais potência. Mais robusto.
+Acessível: qualidade Bosch a um preço acessível!",3.22,0,0,True,False,False,154981
+6213169,,Ferramentas Bateria,453961,Furadeira e Parafusadeira de Impacto 18V GSB 180 LI Bosch 06019F83E0,"FURADEIRA 19F8.3E0 127/220V BATERIA 18V GSB 180-LI IMP0
+Ideal para trabalhos profissionais a Furadeira Parafusadeira de impacto 1/2""",3.7,0,1043.47,False,False,False,154981
+6215604,,Ferramentas Bateria,454224,Parafusadeira sem fio GO Bosch 06019H20E0,"Parafusadeira sem fio GO
+A única parafusadeira inteligente - Uma simples pressão. Um acabamento perfeito.
+4 vezes mais potente do que qualquer aparafusadeira existente com o mesmo tamanho e forma.
+",0.5,2,193.31,True,False,False,154981
+6284576,,Ferramentas Bateria,455143,Furadeira/Parafusadeira GSB 180 LI de Impacto 18V  C/Kit Promocional Bosch 06019F83E1,"A ferramenta de impacto com o melhor custo-benefício e maior praticidade na troca manual de escovas.
+",3.69,0,0,True,False,False,154981
+6284582,,Ferramentas Bateria,454934,Furadeira/Parafusadeira Combo GSR 120 Li + GDR 120 Li Bivolt Bat. Maleta Alumínio Bosch 06019F00E4,"Combo Parafusadeira/Furadeira com Parafusadeira de Impacto a Bateria GDR 120-LI, e GSR 120-LI de 12V com Maleta de Alumínio, Azul.",3.15,0,0,True,False,False,154981
+6297497,,Ferramentas Bateria,455192,Furadeira/Parafusadeira GSR  120-LI a Bateria + Kit 34 Peças + Brinquedo Bosch 0615A000GC,"Durável: projetada com carcaça robusta e proteção de células ECP
+
+Alto desempenho: a melhora de torque macio de mais de 20% em comparação com o GSR 1080-2-LI dá mais potência para os usuários!",3.66,0,0,True,False,True,154981
+6373310,,Ferramentas Bateria,455333,Martelo perfurador GBH 180-LI  a bateria com SDS-plus  Bosch 06119110E2,"Novo Martelete a Bateria GBH 180-LI. O único de 18 V do mercado que oferece 1,7 J de força de impacto, equivalente ao martelete a cabo GBH 2-20 D.",2.6,0,0,True,False,False,154981
+6381367,,Ferramentas Bateria,454781,Parafusadeira sem fio GO Kit Bosch 06019H20E1,"Parafusadeira Bosch Go 3,6V Versao KIT.
+A única parafusadeira inteligente - Uma simples pressão. Um acabamento perfeito.",1,2,242.62,True,False,True,154981
+6351179,,Ferramentas Pneumáticas,370115,"Retifica Angular Pneumática 1/4"" UP-117-1541 Campbell","São indicadas para fazer acabamento de metais, vidros, plásticos e diversos materiais até para a limpeza de pneus em processos de recauchutagem, indispensável em borracharias e mecânica automotivas.",0.72,1,323.34,True,False,True,248073
+6351278,,Ferramentas Pneumáticas,370152,"Esmerilhadeira Angular Pneumática 5"" UP-218.305A Campbell","Esmerilhaderia para desbaste de peças metálicas, cordão de solda; preparo para lixamento.",2.68,0,0,True,False,True,248073
+6351284,,Ferramentas Pneumáticas,370127,"Lixadeira Orbital Pneumática 5"" UP-1201565 Campbell",Lixamento a seco em diversa superfícies; prepara chapas e carrocerias. Lixamento em peças de madeira com aspiração do pó.,1.115,1,385.24,True,False,True,248073
+6378566,,Fita,450653,"Fita Antiderrapante, 50 mm x 5 m, preta Vonder 1014105005","Indicada para locais sem incidência de umidade, como: pisos, degraus, rampas, escadas, skates, entre outros
+",0.25,12,27.08,True,False,False,154994
+6213068,,Furadeira e Parafusadeira,,Furadeira e Parafusadeira GSR 7-14 Profissional Bosch,"A única parafusadeira/furadeira com cabo que possui controle de torque (24+1) e embreagem de segurança
+",1.9,1,280.6,True,False,False,154981
+6253650,6213068,Furadeira e Parafusadeira,452539,,,1.9,1,280.6,True,False,False,154981
+6257397,6213068,Furadeira e Parafusadeira,454810,,Furadeira e Parafusadeira GSR 7-14 Profissional Bosch 220V 06014470e0,1.9,0,280.6,True,False,False,154981
+6213069,,Furadeira e Parafusadeira,,Furadeira de Impacto 13mm 6555 570W com 14 Brocas SKIL,"A Furadeira de Impacto, modelo 655, da Skil, pode ser utilizada para perfurar madeiras, estruturas metálicas ou concreto.",2.5,1,230.96,True,False,False,227246
+6257388,6213069,Furadeira e Parafusadeira,454172,,,2.5,0,230.96,True,False,False,227246
+6257389,6213069,Furadeira e Parafusadeira,454173,,,2.5,2,230.96,True,False,False,227246
+6213164,,Furadeira e Parafusadeira,,Furadeira de Impacto GSB 13 RE Profissional 650W Bosch,"Furadeira de impacto
+Bosch GSB 13 RE Professional
+Rendimento com eficiência e qualidade. Alta performance em todos os materiais.
+Potente motor de 650 W.",2.3,1,323.97,True,False,False,154981
+6263798,6213164,Furadeira e Parafusadeira,452894,,,2.3,2,323.97,True,False,False,154981
+6263799,6213164,Furadeira e Parafusadeira,452895,,,2.3,0,0,True,False,False,154981
+6213072,,Furadeira e Parafusadeira,,Furadeira de Impacto GSB 16 RE 750W Bosch,"Furadeira de impacto
+Bosch GSB 16 RE Professional
+Alta performance, design e potência.
+- Potente motor de 750 W.
+- Sistema de engrenamento helicoidal.
+",3.2,1,473.22,True,False,False,154981
+6253652,6213072,Furadeira e Parafusadeira,452799,,,3.2,2,473.22,True,False,False,154981
+6257398,6213072,Furadeira e Parafusadeira,452843,,,3.2,0,473.22,True,False,False,154981
+6284553,,Furadeira e Parafusadeira,,Furadeira de Impacto GSB 20-2 RE 800W Bosch,"Alta performance, design e potência.
+Uma das mais potentes e leves da categoria: 800 W em apenas 2,5 kg.
+Protetor de cabo articulado: flexibilidade e durabilidade.
+",3.32,1,898.02,True,False,False,154981
+6284571,6284553,Furadeira e Parafusadeira,452757,,Furadeira de Impacto GSB 20-2 RE 127V 800W Bosch 06011A21D2,3.32,1,898.02,True,False,False,154981
+6284573,6284553,Furadeira e Parafusadeira,452758,,Furadeira de Impacto GSB 20-2 RE 800W Bosch 220V 06011A21E2,3.32,0,898.02,True,False,False,154981
+6375531,,Furadeira e Parafusadeira,,Furadeira de Impacto GSB 450W Bosch,"A furadeira de impacto GSB 450 RE STD da Bosch possui o maior controle e ótimo desempenho em todos os materiais.
+",1.77,1,201.16,True,True,False,154981
+6375532,6375531,Furadeira e Parafusadeira,455334,,,1.77,5,201.16,True,True,False,154981
+6375533,6375531,Furadeira e Parafusadeira,455335,,,1.77,3,201.16,True,True,False,154981
+6375539,,Furadeira e Parafusadeira,,Furadeira de impacto GSB 550 Professional Bosch,"Nova GSB 550 para a gama profissional Bosch focada no mercado RLA.
+A furadeira de impacto GSB 550 RE STD da Bosch possui o maior controle e ótimo desempenho em todos os materiais.
+",1.87,1,269.28,True,True,False,154981
+6375540,6375539,Furadeira e Parafusadeira,455336,,,1.87,2,269.28,True,True,False,154981
+6375541,6375539,Furadeira e Parafusadeira,455337,,,1.87,1,269.28,True,True,False,154981
+6140249,,Guincho Elétrico,,Guincho elétrico para 100 kg/200 kg GEV 200 - Vonder,"Indicado para movimentação de cargas verticais em prédios, casas, andaimes, torres, entre outros. Não aplicável para uso contínuo, respeitar o fator de trabalho do equipamento.",9.95,1,775.5,True,False,False,154994
+6253325,6140249,Guincho Elétrico,454852,,,9.95,1,775.5,True,False,False,154994
+6378593,6140249,Guincho Elétrico,454139,,,9.95,1,775.5,True,False,False,154994
+6408313,,Instrumentos de Medição,454853,Termo-Higrômetro MT-241A Minipa,"O termo-higrômetro digital modelo MT-241A / MT-242A foi projetado para monitoramento de temperatura e umidade ambiente. Possui função de leitura máxima e mínima, de medida (°C) e relógio integrado.",0.19,0,142.3,True,True,False,154988
+6577748,,Instrumentos de Medição,454854,Termo-Higrômetro MT-242A Minipa,"O termo-higrômetro digital modelo MT-242A foi projetado para monitoramento de temperatura e umidade ambiente. Uso Residencial, Hospitalar, Escritórios;",0.12,1,137.98,True,False,False,154988
+6577749,,Instrumentos de Medição,326522,Detector de Tensão EZ PHASE II Minipa,"O EzPhase pode ser usado para identificar se dois pontos distintos pertencem a mesma fase ou não. Detector de Seqüência de Fase Trifásica, Identificador de Cabos energizados",0.55,0,133.29,True,False,False,154988
+6577750,,Instrumentos de Medição,313201,Detector de Tensão EZ ALERT II Minipa,Indicação de tensão luminosa e sonora,0.55,1,56.28,True,False,False,154988
+6217470,,Jogos de Chaves,454942,Jogo de ferramentas com 110 peças Stanley STMT81243840,O Jogo Multiferramentas Stanley é ideal para consumidores que buscam soluções práticas e completas para o dia-a-dia. Contanto com 110 peças para as mais variadas soluções.,7.34,0,0,True,False,False,222111
+6218738,,Jogos de Chaves,372030,Caixa sanfonada Cargobox 65 pçs 5 gav. c/ferramentas - Tramontina  44952665,Organização e praticidade são as características que definem a Cargobox. Esta caixa de ferramentas da Tramontina PRO est  disponível com e sem ferramentas para atender …s necessidades de profissionais,16.37,0,0,False,False,False,154983
+6218762,,Jogos de Chaves,454783,Jogo de Chaves Combinadas 8 a 19mm  8 Peças Em Aço -  Tramontina 44660298,"Ideal para apertar e afrouxar parafusos ou porcas com perfil quadrado ou sextavado, as chaves da Tramontina PRO são fabricadas com matéria prima que garante alta resistência e durabilidade.",0.82,2,78.74,True,False,False,154983
+6218854,,Jogos de Chaves,375713,Jogo de Chaves de Fenda /Phillips Eletricista Easygrip 6 Peças - Tramontina Pro 44115406,"Seja em manutençäes industriais ou automotivas, apertar ou afrouxar parafusos se torna mais fácil com a ajuda das Chaves Easygrip da Tramontina PRO.",0.48,6,74.25,True,False,False,154983
+6218858,,Jogos de Chaves,453722,Jogo de Chaves Hexagonal 2 a 10mm Tipo L 8 Peças -  Tramontina 44400288,"Seu corpo em forma de L com 2 braços de diferente comprimento, permite a aplicação de torque em parafusos posicionados em diferentes profundidades.",0.33,6,30.81,True,False,False,154983
+6218861,,Jogos de Chaves,374998,Jogo de chaves trafix com armação 7 peças - Tramontina 44451207,"Seu corpo em forma de L com 2 braços de diferente comprimento, permite a aplicação de torque em parafusos posicionados em diferentes profundidades.",0.28,2,105.12,True,False,False,154983
+6218933,,Jogos de Chaves,373511,Jogo de Chaves Biela 12 Unidades Forjado - Tramontina 44720211,"Com formato L e extremidades em formato de soquetes, as chaves bielas permitem apertar e afrouxar parafusos e porcas em locais de difícil acesso com mais agilidade.",6.01,1,243.68,True,False,False,154983
+6218936,,Jogos de Chaves,450358,Jogo de Chaves Combinadas 9 Peças Aço Cromo - Tramontina 44670209,"Ideal para apertar e afrouxar parafusos ou porcas com perfil quadrado ou sextavado, as chaves da Tramontina PRO são fabricadas com matéria prima que garante alta resistência e durabilidade.",0.93,2,113.13,True,False,False,154983
+6218939,,Jogos de Chaves,364065,Jogo de Chaves de Fenda Twister -  Tramontina 44130505,"Seja em manutençäes industriais ou automotivas, apertar ou afrouxar parafusos se
+torna mais fácil com a ajuda da Chave Twister da Tramontina PRO.",0.33,12,29.73,True,False,True,154983
+6218941,,Jogos de Chaves,451790,Jogo de Chaves Hexagonal 8 Peças -  Tramontina  44420208,"Seu corpo em forma de L com 2 braços de diferente comprimento, permite a aplicação de torque em parafusos posicionados em diferentes profundidades.",0.13,6,20.38,True,False,False,154983
+6218942,,Jogos de Chaves,453120,Jogo de Chaves Hexagonal Ponta Abaulada - Tramontina 44461208,"Seu corpo em forma de L com 2 braços de diferente comprimento, permite a aplicação de torque em parafusos posicionados em diferentes profundidades.",0.39,2,75.17,True,False,False,154983
+6219034,,Jogos de Chaves,450574,Jogo De Chaves Hexagonal L 1.50 A 10.00 mm De Ponta Abaulada C/9 pcs -Tramontina 44460209,"Seu corpo em forma de L com 2 braços de diferente comprimento, permite a aplicação de torque em parafusos posicionados em diferentes profundidades.",0.35,6,62.18,True,False,False,154983
+6219040,,Jogos de Chaves,451472,Jogo de Machos e Cossinetes 32 peças - Tramontina 44080432,"Com o auxílio de ferramentas auxiliares, os machos são utilizados para gerar roscas internas em furos enquanto os cossinetes são utilizados para gerar roscas externas em eixos e parafusos.",1.45,0,0,True,False,False,154983
+6219047,,Jogos de Chaves,366777,Maleta Com 18 Soquetes E Acessórios  encaixe de 1/2 -  Tramontina 44833522,"Os soquetes da Tramontina PRO são produzidos com sistema Hyper Drive que melhora o acoplamento do produto ao parafuso ou porca, reduzindo as tensäes geradas no aperto e prolongando a sua vida útil.",3.7,12,311.09,True,False,True,154983
+6219050,,Jogos de Chaves,450349,Maleta com ferramentas 43 peças - Tramontina  44952243,Manter as ferramentas organizadas e facilitar o transporte das peças de um lado para o outro ‚ a finalidade dos organizadores para ferramentas da Tramontina PRO.,7.52,2,728.05,True,False,False,154983
+6219051,,Jogos de Chaves,450985,Maleta Com Rebitador E 70 Rebites - Tramontina Pro 44024271,As montagens de estruturas ficam muito mais rápidas com o rebitador da Tramontina PRO. A ferramenta certa para você que necessita de praticidade e agilidade.,1.38,1,176.41,True,False,False,154983
+6219053,,Jogos de Chaves,450996,Maleta Com Soquetes E Acessórios 17 peças encaixe 1/4 - Tramontina 44805217,"Os soquetes da Tramontina PRO são produzidos com sistema Hyper Drive que melhora o acoplamento do produto ao parafuso ou porca, reduzindo as tensäes geradas no aperto e prolongando a sua vida útil.",0.99,2,292.73,True,False,False,154983
+6378644,,Jogos de Chaves,451871,Jogo de Ferramentas com 110 peças Vonder 3599110104,Indicado para manutenções e reparos em geral,7.34,8,461.67,True,False,False,154994
+6380088,,Jogos de Chaves,5787,Jogo de chaves L Hexagonais (ALLEN) 1.5 A 10 MM 42-9M Gedore 12103,"Jogo de Chave Hexagonal 1,5 a 10mm Gedore 9 peças
+",0,1,25.87,True,False,False,154982
+6380111,,Jogos de Chaves,46106,"Jogo de chaves L Hexagonais (ALLEN) 1/16"" a 3/8""  42-9P Gedore 12154","Jogo de Chave Hexagonal 1/16"" a 3/8"" Gedore 9 peças
+",0,6,26.65,True,False,False,154982
+6380115,,Jogos de Chaves,329966,Jogo de Chaves Combinadas 8 A 19 mm 8 Peças 1B-80M Gedore 2614,Aço Gedore-Vanadium. Acabamento niquelado e cromado. Chave combinada com um lado boca e outro Unit Drive com as mesmas medidas.,0,2,80.71,True,False,False,154982
+6380128,,Jogos de Chaves,46733,Jogo de Chaves de Fenda e Phillips 150-160S 5 Peças Gedore 36450,"Haste em aço Gedore-Vanadium e cabo em polímero na cor azul padrão Gedore. Haste com acabamento niquelado e cromado, com ponta escurecida. Cabo ergonômico. Chave com haste redonda e resistente",0,1,31.52,True,False,False,154982
+6380155,,Jogos de Chaves,12350,Jogo de Chaves Fixas 1/4 A 2 c/12 pçs Gedore 004656,"Jogo de chave fixas, também conhecida como chaves de boca com 12 peças é utilizada para afrouxar, apertar e regular porcas e parafusos, de feição quadrado ou sextavado.",0,1,404.2,True,False,False,154982
+6578467,,Jogos de Chaves,336668,Jogo de chaves de Fenda Simples e cruzada 150-160 NR isoladas NBR 9699 Gedore 35290,Jogo de chaves de fenda simples e cruzada NR isoladas NBR 9699 com 6 peças.Aço Gedore-Vanadium.,0.27,1,80.59,True,False,False,154982
+6141550,,Kits,147083,Conjunto PRÁTICO de Solda e Corte AC  OX/AC PRATICO Condor 407421,"Conjuntos montados de equipamentos, onde basta carregar os cilindros de gases e iniciar a operação.",39,0,2531.76,True,False,True,155007
+6218178,,Kits,453944,Maleta Rooster Corte e Solda AC Condor 407504,"O Kit de Solda e Corte Rooster é prático, versátil e econômico.
+Ele reúne os principais produtos que você precisa para realizar trabalhos de solda e corte, com acetileno ou GLP.",8.5,0,0,True,False,False,155007
+6218180,,Kits,453942,Maleta Solda 200 AC Plus Condor 407501,"Carregue com você para onde for Soldar ou Cortar
+Praticidade e segurança são as duas principais características da nossa linha de maletas para corte e solda.",1.64,0,0,True,False,False,155007
+6218181,,Kits,453943,Maleta Solda 201 AC Plus Condor 407502,"Carregue com você para onde for Soldar ou Cortar.
+Praticidade e segurança são as duas principais características da nossa linha de maletas para corte e solda.",2.8,1,335.29,True,False,True,155007
+6378651,,Lanterna,452780,Lanterna para cabeça LC 007 Vonder 8075007000,Indicada para iluminação em geral. Adaptável diretamente na cabeça ou no capacete,0.11,0,0,True,False,False,154994
+6378653,,Lanterna,455271,"Lanterna recarregável com 19 LEDs, bivolt, LRV 360, Vonder 8075360000","Indicada para iluminação em geral. Utilizada em camping, residências, entre outros.",0.5,6,77.25,True,False,False,154994
+6217065,,Lav. e Sec. de Pisos,454644,Lavadora e Secadora de Piso BD 30/4 C BAT - Karcher 93983320,"Lavadora movida … bateria. Com cabeçotes tipo disco, faixa de limpeza de 280 mm e reservatórios com a capacidade de 4 litros cada. Indicada para lojas de conveniência, padarias, cozinhas e etc.",21,0,16179.77,False,False,False,154984
+6217072,,Lav. e Sec. de Pisos,454637,Lavadora e Secadora de Piso BD 50/50 C - Karcher 19943600,"Limpadora e secadora de pisos com cabeçote tipo disco e 50 litros de capacidade em cada tanque. Indicada para limpeza de  rea até 3.000 mý como supermercados, armaz‚ns, estoques, aeroportos etc.",154.5,0,27435.79,False,False,False,154984
+6217076,,Lav. e Sec. de Pisos,,Lavadora Secadora de pisos 1.700 watts para operação pedestre - BD 530 220V Karcher 11278060,Lavadora e secadora de pisos manual elétrica com escova tipo disco rotativa para limpeza completa do piso com produtividade de até 1840 mý/h.,93.45,0,0,False,False,False,154984
+6264658,6217076,Lav. e Sec. de Pisos,453787,,,93.45,0,0,False,False,False,154984
+6217084,,Lav. e Sec. de Pisos,454636,Lavadora e Secadora de Piso BD 530 BAT - Karcher 11273510,Lavadora e secadora de pisos manual  bateria com escova tipo disco rotativa para limpeza completa do piso com produtividade de até 1840 mts.,205.8,0,0,False,False,False,154984
+6217102,,Lav. e Sec. de Pisos,,Lavadora e Secadora de Piso Rolo BR 35/12 C BAT - Karcher 93988510,A Lavadora e Secadora de Pisos BR 35/12 C Bateria ‚ ideal para limpeza de áreas entre 600 e 1.000mt. Possui alta manobrabilidade e alto desempenho de limpeza.,43.6,0,30902.9,False,False,False,154984
+6253354,6217102,Lav. e Sec. de Pisos,454619,,,43.6,1,30902.9,False,False,False,154984
+6217111,,Lav. e Sec. de Pisos,,Lavadora Secadora de pisos 1.700 watts para operação pedestre - BR 530 220V Karcher  11273210,"Lavadora de pisos acionada manualmente com escovas rotativas para limpezas básicas, manutenção da limpeza e polimento de superficies de até 1.840 m2.",129.2,0,0,False,False,False,154984
+6264657,6217111,Lav. e Sec. de Pisos,362465,,,129.2,0,0,False,False,False,154984
+6217119,,Lav. e Sec. de Pisos,454620,Lavadora e Secadora de Piso Rolo BR 530 BAT - Karcher 11273310,"Lavadora de pisos acionada manualmente com escovas rotativas para limpezas básicas, manutenção da limpeza e polimento de superfícies de até 1.840 m2.",201,0,27356.86,False,False,False,154984
+6217086,,Lav. e Sec. de Pisos,,Lavadora e Secadora de Piso BR 30/4 C - Karcher,Lavadora e secadora de pisos compacta e leve. Uma alternativa inovadora e eficiente para a limpeza manual de pisos de 20 a 200 m2.,16.6,0,7268.4,False,False,False,154984
+6264565,6217086,Lav. e Sec. de Pisos,454645,,,16.6,1,7268.4,False,False,False,154984
+6264566,6217086,Lav. e Sec. de Pisos,454643,,,16.6,1,7268.4,False,False,False,154984
+6216479,,Lavadoras de Alta Pressão,454174,Lavadora de Alta Pressão G 3200 OH Profissional Gasolina Karcher 11073060,"Uequipamento robusto, que enfrenta qualquer tipo de terreno sem dificuldades, e ainda te entrega uma grande potência para executar com mais facilidade as tarefas do seu dia.",32,0,0,False,False,False,154984
+6216485,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HDS 10/18-4 S com água Quente Karcher,Lavadora de alta pressão com  gua quente equipada com bomba refrigerada a  gua que garante alto desempenho e maior vida útil para o equipamento. Dimensionada para uso contínuo e diário.,177,0,0,False,False,False,154984
+6262511,6216485,Lavadoras de Alta Pressão,451550,,,177,1,0,False,False,False,154984
+6262514,6216485,Lavadoras de Alta Pressão,451551,,,177,1,0,False,False,False,154984
+6262527,6216485,Lavadoras de Alta Pressão,451552,,,177,1,0,False,False,False,154984
+6216508,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HDS 12/18-4 S 220V 2.610 psi trifásica com água QuenteKarcher 10283440,Lavadora de alta pressão com  água quente equipada com bomba refrigerada a  água que garante alto desempenho e maior vida útil para o equipamento. Dimensionada para uso continuo e diário.,186,0,24201.55,False,False,False,154984
+6253360,6216508,Lavadoras de Alta Pressão,451553,,,186,1,24201.55,False,False,False,154984
+6216514,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HDS 12/18-4 S com água Quente Karcher,Lavadora de alta pressão com  gua quente equipada com bomba refrigerada d´água que garante alto desempenho e maior vida útil para o equipamento. Dimensionada para uso continuo e diário.,186,0,24201.55,False,False,False,154984
+6262697,6216514,Lavadoras de Alta Pressão,451555,,,186,1,24201.55,False,False,False,154984
+6262683,6216514,Lavadoras de Alta Pressão,451554,,,186,1,24201.55,False,False,False,154984
+6216518,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HDS  8/17-4 M 220V com água Quente Karcher 10253260,Lavadora de alta pressão com  gua quente equipada com bomba refrigerada d´agua que garante alto desempenho e maior vida útil para o equipamento. Dimensionada para uso continuo e diário.,173,0,18193.98,False,False,False,154984
+6262707,6216518,Lavadoras de Alta Pressão,451547,,Lavadora de Alta Pressão HDS 8/17-4 M 220V com água Quente Karcher 10253260,173,1,18193.98,False,False,False,154984
+6262769,6216518,Lavadoras de Alta Pressão,451548,,Lavadora de Alta Pressão HDS 8/17-4 M 220V com água Quente Karcher 10253270,173,1,18193.98,False,False,False,154984
+6216524,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HD 585 Profissional Linha Compacta Karcher,Lavadora Profissional possui design compacto muito eficiente. Sua bomba com pistons em aço inox e cabeçote em latão conferem maior resistência e durabilidade. Sua performance impressiona.,21.49,1,1911.76,True,False,False,154984
+6253534,6216524,Lavadoras de Alta Pressão,306652,,,21.49,0,1911.77,True,False,False,154984
+6262690,6216524,Lavadoras de Alta Pressão,306664,,,21.49,1,1911.77,True,False,False,154984
+6216553,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HD  6/15 C 600 2175PSI  L/h Linha Compacta 220V Karcher 11506170,"A Lavadora de alta pressão 2.175 libras - HD6/15C da Karcher possui alça de transporte, dosador de detergente integrado, tubeira de aço inox e espaço para armazenar cabo elétrico e mangueira.",25.5,0,3255.58,False,False,False,154984
+6253528,6216553,Lavadoras de Alta Pressão,306688,,,25.5,1,3255.58,False,False,False,154984
+6216554,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HD  6/15 Cage Plus monofásica Linha Compacta 220V Karcher 11506180,"Com rodas grandes, que facilitam a movimentação em pisos irregulares e ao subir escadas, a Lavadora de Alta Pressão profissional leve da Karcher modelo HD6/15",30,0,3588.24,False,False,False,154984
+6253532,6216554,Lavadoras de Alta Pressão,362729,,,30,1,3588.24,False,False,False,154984
+6216555,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HD 10/18 - 4 MAXI - Karcher,"Lavadora profissional de alto rendimento, resistência, e alta durabilidade. Dimensionada para uso continuo e diário. Chassi em aço e pistons de cerâmica. Extremamente robusta e resistente.",74.8,0,8259.56,False,False,False,154984
+6262544,6216555,Lavadoras de Alta Pressão,306690,,,74.8,1,8259.56,False,False,False,154984
+6262549,6216555,Lavadoras de Alta Pressão,453094,,,74.8,1,8259.56,False,False,False,154984
+6216558,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão HD 10/25 - 4 Maxi 3.625 libras trifásica 220V Karcher 19448860,"A Lavadora de alta pressão 3.625 libras - HD10/25-4 CAGE da Karcher possui sistema Servopress que permite a regulagem de pressão d´agua, diretamente no gatilho, pistons de cerâmica, cabeçote.",121.4,0,14186.97,False,False,False,154984
+6262508,6216558,Lavadoras de Alta Pressão,311999,,,121.4,1,14186.97,False,False,False,154984
+6216720,,Lavadoras de Alta Pressão,340995,Lavadora de Alta Pressão HD  7/15-4 CAGE  2.155 libras trifásica Karcher 19448830,"A Lavadora de alta pressão 3.625 libras - HD10/25-4 CAGE da Karcher possui sistema Servopress que permite a regulagem de pressão d´agua, diretamente no gatilho, pistons de cerâmica, cabeçote.",62.4,1,8333.19,False,False,False,154984
+6216778,,Lavadoras de Alta Pressão,342534,Lavadora de Alta Pressão HD 12/15 S 2.175PSI 1.200L/h 220V Karcher 16860110,A Lavadora de alta pressão  gua fria - HD12/15S da Karcher ‚ uma lavadora de uso profissional pesado desenvolvida para atingir o máximo desempenho em aplicaçäes profissionais de grande intensidade.,119.2,1,13352.49,False,False,False,154984
+6253530,6216778,Lavadoras de Alta Pressão,342534,,,119.2,1,13352.49,False,False,False,154984
+6216783,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão K 3.30 1.740 libras monofásica Karcher,"A Lavadora de alta pressão 1.740 libras monofásica - K330 da Karcher ‚ a mais completa da categoria, ‚ leve e compacta, possui excelente performance, design horizontal,  fácil de armazenar.",14.4,1,901.16,True,False,False,154984
+6285613,6216783,Lavadoras de Alta Pressão,453106,,Lavadora de Alta Pressão com Motor de Indução 1740PSI K 3.30 127V Karcher 19948330,14.4,0,901.16,True,False,False,154984
+6262224,6216783,Lavadoras de Alta Pressão,453694,,Lavadora de alta pressão 1.740 libras monofásica - K3.30 220V Karcher 19948340,14.4,0,901.16,True,False,False,154984
+6216784,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão K 3.98 M 127V - Karcher 19941310,Lavadora de alta pressão com motor a indução. Ideal para uso diário em locais com sujidade moderada a pesada.,15.6,0,915.74,False,False,False,154984
+6253540,6216784,Lavadoras de Alta Pressão,454407,,,15.6,1,915.74,False,False,False,154984
+6216939,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão K 430 Power Silent Plus - Karcher,"A lavadora de alta pressão mais silenciosa de sua categoria, com apenas 64 dB (A), 55% menos que as máquinas convencionais. Possui motor a indução blindado, refrigerado d' água e acompanha as tubeiras",15.5,0,0,True,False,False,154984
+6262211,6216939,Lavadoras de Alta Pressão,454738,,,12.3,0,0,False,False,False,154984
+6262216,6216939,Lavadoras de Alta Pressão,454739,,,15.5,0,0,True,False,False,154984
+6216942,,Lavadoras de Alta Pressão,,Lavadora de Alta Pressão K 2 Karcher,"A Lavadora de Alta Pressão K 2 é prática, compacta, com baixo consumo de água e energia elétrica, é ideal para pequenas limpezas do dia-dia.",6.35,0,0,True,False,False,154984
+6262771,6216942,Lavadoras de Alta Pressão,453693,,,6.35,0,0,True,False,False,154984
+6262772,6216942,Lavadoras de Alta Pressão,453692,,,6.35,0,0,True,False,False,154984
+6367959,,Lavadoras de Alta Pressão,,"Lavadora de Alta Pressão LAV 1200, 1300 libras, Vonder",Uso doméstico. Indicada para limpezas em geral com maior remoção de sujeira devido a alta pressão de saída da água.,6.32,1,363.31,True,False,False,154994
+6367960,6367959,Lavadoras de Alta Pressão,455317,,,6.32,1,363.31,True,False,False,154994
+6367961,6367959,Lavadoras de Alta Pressão,455318,,,6.32,0,363.31,True,False,False,154994
+6367962,,Lavadoras de Alta Pressão,,"Lavadora de Alta pressão LAV 1400I, 1450 libras, Vonder",Uso semiprofissional. Indicada para limpezas em geral com maior remoção de sujeira devido a alta pressão de saída da água.,10.5,1,0,True,False,False,154994
+6367963,6367962,Lavadoras de Alta Pressão,455319,,,10.5,0,0,True,False,False,154994
+6367964,6367962,Lavadoras de Alta Pressão,455320,,,10.5,0,0,True,False,False,154994
+6367965,,Lavadoras de Alta Pressão,455321,Lavadora de Alta pressão LAV 1600I 220 V~ Vonder 6864160220,Uso profissional. Indicada para limpezas em geral com maior remoção de sujeira devido à alta pressão de saída da água.,24.7,1,1515.33,True,False,False,154994
+6367966,,Lavadoras de Alta Pressão,,"Lavadora de Alta pressão LAV 1800I, 2000 libras, Vonder",Uso semiprofissional. Indicada para limpezas em geral com maior remoção de sujeira devido a alta pressão de saída da água.,16.76,1,0,True,False,False,154994
+6367967,6367966,Lavadoras de Alta Pressão,455322,,,16.76,0,0,True,False,False,154994
+6367968,6367966,Lavadoras de Alta Pressão,455323,,,16.76,0,0,True,False,False,154994
+6217220,,Limpadora a vapor,,Limpadora a Vapor SG 4/4 BR 220V Karcher 10921060,Limpador a vapor profissional de alto desempenho que oferece limpeza profunda e higiênica sem o uso de produtos químicos.,11.2,0,8832.34,False,False,False,154984
+6253427,6217220,Limpadora a vapor,452743,,,11.2,0,8832.34,False,False,False,154984
+6217230,,Limpadora Extratora,,Extratora SE 4001 60Hz - Karcher,A Lava carpete / aspirador 1.4 kw com capacidade de 4/4 litros - SE 4001 da Karcher ‚ ideal para fazer a limpeza e higienização de superfícies estofadas!,11.8,1,1741.71,False,False,False,154984
+6262207,6217230,Limpadora Extratora,318417,,,11.8,0,0,True,False,False,154984
+6262208,6217230,Limpadora Extratora,345284,,,11.8,1,1741.71,True,False,False,154984
+6217289,,Limpadora Extratora,,Extratora Puzzi 10/1 Karcher,"Limpadora a extração indicada para a higienização de estofados, sofás, tapetes e carpetes, entre outros. 
+Indicado para o uso em hotéis escritórios, shopping centers, salas de convençäes entre outros",15.5,0,5276.96,False,False,False,154984
+6261346,6217289,Limpadora Extratora,454646,,,15.5,1,5276.96,False,False,False,154984
+6261347,6217289,Limpadora Extratora,454647,,,15.5,1,5276.96,False,False,False,154984
+6214708,,Lixadeira,,Lixadeira Excêntrica GEX 125-1 AE Profissional Bosch,"Lixadeira excêntrica
+Bosch GEX 125-1 AE Professional
+Comodidade de corte em qualquer posição de trabalho
+Lixamento sem esforço em qualquer posição, leve e compacta.",1.68,1,505.01,True,False,False,154981
+6263800,6214708,Lixadeira,348711,,,1.68,0,0,True,False,False,154981
+6263801,6214708,Lixadeira,347450,,,1.68,1,505.01,True,False,False,154981
+6214717,,Lixadeira,,Lixadeira Orbital de Palma 200W 114mm 7232 SKIL,"Com a lixadeira da Skil você tem mais praticidade e segurança, além do sistema de presilhas para fixação de lixas, ela possui um motor super potente com design compacto para alcance de áreas menores.",1.19,1,249.06,True,False,False,227246
+6253653,6214717,Lixadeira,340079,,,1.19,0,249.06,True,False,False,227246
+6492037,6214717,Lixadeira,342313,,,1.19,0,249.06,True,True,False,227246
+6252045,,Lixadeira,,Lixadeira Vibratória GSS 140 STD Bosch,"Lixar qualquer coisa, de qualquer forma, em qualquer lugar.
+Flexível e sem causar cansaço em trabalhos de muitas horas mesmo acima do nível da cabeça
+Excelente design ergonômico.",1.38,1,273.26,True,False,False,154981
+6257233,6252045,Lixadeira,455034,,,1.38,0,273.26,True,False,False,154981
+6257235,6252045,Lixadeira,455152,,,1.38,2,273.26,True,False,False,154981
+6217471,,Lona,452610,Lona 2 X 2 Azul Impermeavel Multi Uso Piscina Festa Telhado Nove54,"Possui fio sintético ao redor da bainha para maior resistência. Fabricada em polietileno de alta e baixa densidade, com aditivo que protege contra os raios ultravioleta. Impermeável.",0.32,6,17.87,True,False,False,154994
+6217472,,Lona,452611,Lona 3 X 2 Azul Impermeavel Multi Uso Piscina Festa Telhado,"Possui fio sintético ao redor da bainha para maior resistência. Fabricada em polietileno de alta e baixa densidade, com aditivo que protege contra os raios ultravioleta. Impermeável.",0.45,6,26.82,True,False,False,154994
+6217864,,Lona,452612,Lona 3 X 3 Azul Impermeavel Multi Uso Piscina Festa Telhado Nove54,"Possui fio sintético ao redor da bainha para maior resistência. Fabricada em polietileno de alta e baixa densidade, com aditivo que protege contra os raios ultravioleta. Impermeável.",0.61,6,40.2,True,False,False,154994
+6217872,,Lona,452613,Lona 4 X 3 Azul Impermeavel Multi Uso Piscina Festa Telhado Nove54,"Possui fio sintético ao redor da bainha para maior resistência. Fabricada em polietileno de alta e baixa densidade, com aditivo que protege contra os raios ultravioleta. Impermeável.",0.85,6,53.61,True,False,False,154994
+6217896,,Macaco Hidráulico,451586,Macaco hidráulico tipo garrafa 10 t Vonder 6874100000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",6.15,2,291.94,True,False,False,154994
+6217903,,Macaco Hidráulico,451587,Macaco hidráulico tipo garrafa 12 t Vonder 6874120000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",7.2,2,334.5,True,False,False,154994
+6217913,,Macaco Hidráulico,451588,Macaco hidráulico tipo garrafa 15 t Vonder 6874150000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",8.09,2,377.4,True,False,False,154994
+6217920,,Macaco Hidráulico,451582,Macaco hidráulico tipo garrafa  2 t Vonder 6874020000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",2.48,2,145.13,True,False,False,154994
+6217924,,Macaco Hidráulico,451589,Macaco hidráulico tipo garrafa 20 t Vonder 6874200000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",10.75,2,486.68,True,False,False,154994
+6217926,,Macaco Hidráulico,451583,Macaco hidráulico tipo garrafa  3 t Vonder 6874030000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",3.35,2,176.51,True,False,False,154994
+6217929,,Macaco Hidráulico,451584,Macaco hidráulico tipo garrafa  5 t Vonder 6874050000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",4.59,2,217.69,True,False,False,154994
+6217932,,Macaco Hidráulico,451585,Macaco hidráulico tipo garrafa  8 t Vonder 6874080000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",5.5,2,258.58,True,False,False,154994
+6217940,,Macaco Hidráulico,451590,Macaco hidráulico tipo garrafa 30 t Vonder 6874300000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",19.2,2,1013.23,True,False,False,154994
+6217947,,Macaco Hidráulico,451591,Macaco hidráulico tipo garrafa 50 t Vonder 6874500000,"Indicado para elevação de veículos ou cargas de acordo com sua capacidade. Usar, armazenar e transportar somente na posição vertical para evitar vazamento de óleo.",26.5,2,1348.2,True,False,False,154994
+6217948,,Macaco Hidráulico,452529,Macaco hidráulico tipo jacaré portátil 2 t com maleta Vonder 6874200200,Indicado para elevação de veículos ou cargas de acordo com sua capacidade,7.4,2,315.58,True,False,False,154994
+6141553,,Maçarico,242511,Maçarico de Corte CO 3500 (bicos 1502 / 1503) Condor 404601,"Maçaricos de corte de uso manual, de baixo peso, ideais para cortar até 200,00mm",1.55,6,221.72,True,False,True,155007
+6140266,,Mangueira,453287,"Mangueira Oxigênio e Acetileno 5/16"" HT 1017001100","Mangueira Trançada de TPE (Elastômero Termoplástico) para Solda 
+As mangueiras da linha Welding são ideais para soldagem em geral, como oxigênio e acetileno ou gás liquefeito de petróleo (GLP).",6,1,0,False,False,False,155005
+6140276,,Mangueira,453288,"Mangueira de Solda Argônio 5/16"" Preta HT 1011002100","Fabricada com três camadas com compostos a base de borracha nítrica, camada interna e externa de pvc. Emborrachado camada intermediária de reforço têxtil de poliéster, tornando-se flexível.",3.1,1,0,False,False,False,155005
+6217953,,Máquina de Pintura,,"Máquina de pintura Airless, 1,2 hp, MPA 120  Vonder","Indicada para aplicações profissionais de tintas látex, PU (poliuretano), esmalte à base sintética, à base de água, resina acrílica (desde que não contenha catalizador) e tintas automotivas.",18.65,1,3430.98,True,False,False,154994
+6253326,6217953,Máquina de Pintura,454784,,,18.65,4,3430.98,True,False,False,154994
+6217958,,Máquina Solda Mig,454831,Máquina para solda MIG/MAG MM 255 trifásica Vonder 6878255000,"Ideal para uso em serralherias, oficinas e indústrias em geral. Não acompanha tocha, cilindro, regulador de gás e núcleo adaptador.",85,0,0,False,False,False,154994
+6217960,,Máquina Solda Mig,454832,Máquina para solda MIG/MAG MM 305 trifásica Vonder 6878305000,"Ideal para manutenções e montagens em serralherias e indústrias metalúrgicas em geral. Não acompanha tocha, cilindro, regulador de gás e núcleo adaptador.",96.5,1,0,False,False,False,154994
+6253542,6218060,Máquina Solda Mig,453908,,,28.68,0,0,False,False,False,154994
+6217962,,Máquina Solda Mig,454833,Máquina para solda MIG/MAG MM 405 trifásica com cabeçote externo Vonder 6878405000,"Ideal para industrias metalúrgicas em geral, caldeirarias e oficinas. Não acompanha tocha, cilindro, regulador de gás e núcleo adaptador.",186,0,0,False,False,False,154994
+6218060,,Máquina Solda Mig,,Máquina para solda MIG/MAG MM 150 minimig monofásica Vonder 6878150000,"Indicada para solda em chapas finas e soldas leves em pequenas estruturas metálicas. Não acompanha: tocha, cilindro e regulador para gás. Encaixe da tocha tipo euroconector.",28.68,0,0,False,False,False,154994
+6218075,,Máquina Solda Mig,,Máquina para solda MMP 220 multiprocessos Vonder 6878220000,Ideal para soldagem em serviços de reparação e instalação de estruturas metálicas que requerem mobilidade.,15.6,0,0,False,False,False,154994
+6253543,6218075,Máquina Solda Mig,454785,,,15.6,1,0,False,False,False,154994
+6214727,,Martelete Demolidor,,Martelo demolidor com SDS-max GSH 11 E 1500W Profissional 220V Bosch 611316714,"Martelo demolidor com SDS-max Bosch GSH 11 E Professional
+Especialista em trabalhos de demolição
+Para trabalhos de demolição.
+Rendimento para remoção de concreto de dureza média de 490 kg por hora",15.92,0,4810.85,False,False,False,154981
+6264720,6214727,Martelete Demolidor,20489,,,15.92,0,4810.85,False,False,False,154981
+6214847,,Martelete Demolidor,,Martelo demolidor com SDS-max GSH  5 CE 1150W 220V Bosch 06113210E0,"Martelo demolidor com SDS-max Bosch GSH 5 CE Professional
+Imbativelmente potente, com uma redução das vibrações de até 40%
+8,3 joules de energia de impacto para uma elevada taxa de remoção de materi",11.35,1,3558.86,False,False,False,154981
+6264719,6214847,Martelete Demolidor,450632,,,11.35,1,3558.86,False,False,False,154981
+6214849,,Martelete Demolidor,,Martelo demolidor com SDS-max GSH  5 1100W 220V Bosch 06113370E0,"Martelo demolidor com SDS-max Bosch GSH 5 Professional
+Maior durabilidade da classe com uma potência que impressiona
+Pressão de contacto reduzida e tubo de percussão longo para um rendimento ideal",10.38,0,2761.54,False,False,False,154981
+6264717,6214849,Martelete Demolidor,452414,,,10.38,0,2761.54,False,False,False,154981
+6375543,,Martelete Demolidor,,Martelo Perfurador 800W GBH 2-24 D + Mandril 13mm Bosch,"Martelete Perfurador Rompedor SDS-plus 800W 127V GBH 2-24 D Bosch. Potência comprovada de 800 watts e impacto de 2,7 joules, segundo rigorosa norma internacional EPTA.",4.9,1,681.9,True,False,False,154981
+6375544,6375543,Martelete Demolidor,455331,,,4.9,0,681.9,True,False,False,154981
+6375545,6375543,Martelete Demolidor,455332,,,4.9,0,0,True,False,False,154981
+6215242,,Martelete Perfurador,,Martelo Perfurador Rompedor GBH  5-40 D 1100W - 220V Bosch - 06112690E0,"Martelo perfurador com SDS-max Bosch GBH 5-40 D Professional
+Potente motor: taxa de remoção 30% superior ao principal concorrente.
+A maior força de impacto da classe: 8,5 J.",10.216,0,0,True,False,False,154981
+6253658,6215242,Martelete Perfurador,451926,,,10.216,0,0,True,False,True,154981
+6215366,,Martelete Perfurador,,Martelo Perfurador Rompedor GBH 12-52 D 1700W SDS-max 220V Bosch 06112661E0,"Martelo perfurador com SDS-max Bosch GBH 12-52 D Professional
+O martelo perfurador rompedor: Mais força. Menos vibração.",11.7,0,0,False,False,False,154981
+6253657,6215366,Martelete Perfurador,453788,,,11.7,0,0,False,False,False,154981
+6215464,,Martelete Perfurador,,"Martelo Perfurador Rompedor GBH  2-24 D 820W com SDS-plus 2,7J Bosch","Martelo perfurador com SDS-plus Bosch GBH 2-24 D Professional
+Maior potência para perfurar com menos esforço, agora com 820W!
+Longa vida útil graças a componentes de motor de alta qualidade.
+",4.6,1,0,True,False,False,154981
+6258820,6215464,Martelete Perfurador,369097,,,4.6,0,0,True,False,True,154981
+6258819,6215464,Martelete Perfurador,369085,,,4.6,0,0,True,False,True,154981
+6215369,,Martelete Perfurador,,Martelo perfurador Rompedor GBH  2-26 DRE 800W com SDS-plus 11253 Profissional Bosch,"Martelo perfurador com SDS-plus Bosch GBH 2-26 DRE Professional
+A ferramenta multiuso rápida para utilizações diária.",5,1,732.77,False,False,False,154981
+6258821,6215369,Martelete Perfurador,353051,,,5,0,732.77,False,False,False,154981
+6258822,6215369,Martelete Perfurador,350177,,,5,2,732.77,False,False,False,154981
+6214850,,Martelete Perfurador,,Martelo Eletropneumático SDS 1859 750 W SKIL,"Martelo Eletropneumático  com 3 funções: cinzelamento e perfuração com e sem impacto
+Carcaça de alumínio: 3x mais resistente
+Regulagem de angulação do cinzel",5.74,1,591.97,True,False,False,227246
+6258880,6214850,Martelete Perfurador,451242,,,5.74,1,591.97,True,False,False,227246
+6258882,6214850,Martelete Perfurador,451243,,,5.74,0,0,True,False,False,227246
+6284901,,Martelete Perfurador,454093,Martelo perfurador com SDS-max GBH 8-45 1500W DV 220V Bosch 06112650E0,"Força máxima comprovada:1.500 W e a maior energia de impacto, 15% a mais que o concorrente.
+A maior taxa de remoção da categoria: 250 kg/h, 10% a mais que o principal concorrente. 17% mais perfuraçõe",12.79,0,0,False,False,False,154981
+6219146,,Martelos e Marretas,16685,Martelo de bola com cabo de madeira 300 g - Tramontina 40410012,"Indicados para: rebitar, formar e endireitar metal, além de golpear: talhadeiras, punçäes, saca pinos, vazadores, entre outros, o martelo de bola da Tramontina Master tem o cabo fixado na cabeça.",0.46,2,38.29,True,False,False,154983
+6219148,,Martelos e Marretas,16704,Martelo de bola com cabo de madeira 500 g - Tramontina 40410020,"Indicados para: rebitar, formar e endireitar metal, além de golpear: talhadeiras, punçäes, saca pinos, vazadores, entre outros, o martelo de bola da Tramontina Master tem o cabo fixado na cabeça.",0.75,2,48.07,True,False,False,154983
+6219151,,Martelos e Marretas,128369,Martelo de unha com cabo de madeira 25 mm jateado - Tramontina 40370025,"Toda obra precisa de um martelo de unha na hora de introduzir ou remover pregos, rasgar e remover componentes estruturais de madeiras. Toda a qualidade que você precisa para bater o martelo!",0.63,0,0,True,False,False,154983
+6219154,,Martelos e Marretas,28703,Marreta oitavada com cabo de madeira 1.000 g jateado - Tramontina 40508002,"Quebrar uma parede pode ser muito difícil sem as marretas da Tramontina. Resistentes e seguras, são ferramentas certas para você que trabalha na construção civil ou com pequenos reparos.",1.13,1,23.52,True,False,False,154983
+6218076,,Máscara de Solda,453578,Máscara de escurecimento automático tonalidade 12 MSV 012 Vonder 7076012000,"Indicada para proteção facial contra raios ultravioleta (UV) e infravermelhos (DIN12), impactos de partículas volantes e respingos de solda.",0.75,10,156.6,True,False,False,154994
+6218077,,Máscara de Solda,450509,Máscara de escurecimento automático tonalidade  9 a 13 MSV 913 Vonder 7076913000,"Indicada para proteção facial contra raios ultravioleta (UV) e infravermelhos (DIN13), impactos de partículas volantes e respingos de solda.",0.83,4,261.05,True,False,False,154994
+6380029,,Máscara de Solda,179911,Máscara de Solda Automática A20 Esab 735373,"Máscara para Solda A20 com Regulagem Automática de 9 à 13 Preta ESAB
+Extremamente leve, resistente e de boa performance.
+A máscara A20 oferece alta confiabilidade e preço justo.",0,0,0,True,False,False,155008
+6380229,,Massa Epóx,140280,Massa Epóx Mem A/B 1kg Tubolit PA000013,Massa epóxi bi-componente para aplicação subaquática. Para reparo subaquático e arremates de  impermeabilização. Troca de azulejo em piscina sem esvaziar.,0,0,82.57,True,False,False,154995
+6380230,,Massa Epóx,140278,Massa Epóx Mem-300 A/B 1kg Tubolit PA000016,"Massa epóxi bi-componente para reparos.
+Utilizada na recuperação de peças metálicas como eixos, carcaças de bombas ou rotores, que foram danificados por abrasão, cavitação ou ataque químico.
+",0,5,75.07,True,False,False,154995
+6380231,,Massa Epóx,140291,Massa Epóx MEP-301 A/B 1kg Tubolit PA000019,"Massa epóxi bi-componente para aplicação subaquática. Funciona como proteção anti-corrosiva, proteção contra impactos; solda a frio; isolante elétrico; reparos em geral de furos, emendas e enchimentos",0,5,80.66,True,False,False,154995
+6215564,,Medidor Laser,453366,Medidor laser de distâncias 20m GLM 20 Profissional  Bosch 0601072EG0,"Medidor laser de distâncias Bosch GLM 20 Professional
+Trena a laser para realizar mediação de comprimento/distância.
+Realiza mediação de comprimento.
+Possui mediação contínua.",0.2,0,0,True,False,True,154981
+6215568,,Medidor Laser,453193,Medidor laser de distâncias 40m GLM 40 Profissional Bosch 0601072900,"Medidor laser de distâncias Bosch GLM 40 Professional
+Todas as funções relevantes em um design compacto
+Medição de distância, cálculo de área, cálculo de volume, tudo de forma intuitiva",0.5,0,0,True,False,False,154981
+6215571,,Medidor Laser,453194,Medidor laser de distâncias 50m GLM 50 C Profissional Bosch 0601072C00,"Medidor laser de distâncias Bosch GLM 50 C Professional
+Transferência digital direta dos resultados de medição
+Transferência de dados rápida e eficiente por Bluetooth",1.58,0,0,True,False,True,154981
+6408266,,Multímetro,243833,Multímetro Digital ET-1000 Minipa,"O multímetro digital Modelo ET-1000 (daqui em diante referido apenas como instrumento) diferencia-se pelo display de 3 1/2 dígitos, indicador de bateria fraca e pelas medidas de tensão DC/AC, corrente",0.185,2,51.77,True,True,False,154988
+6408267,,Multímetro,453339,Multímetro Digital ET-2042E Minipa,"Foi projetado para uso em laboratório, em casa, e por hobistas e entusiastas na área elétrica,
+eletrônica e informática.",0.505,2,247.08,True,True,False,154988
+6577733,,Multímetro,331439,Multímetro Digital ET-1002 Minipa,"Diferencia-se pelo display de 3 1/2 dígitos e pelas medidas de tensão DC / AC, corrente DC, resistência, ganho de transistores (hFE) e pelos testes de diodo e continuidade",0.13,2,56.12,True,False,False,154988
+6215598,,Níveis a Laser,453589,Nível Laser combinado GCL  2-15 Profissional +Gancho + Maleta Bosch 0601066E02,"Laser combinado Bosch GCL 2-15 Professional
+Compacto e versátil para todas as aplicações de nivelamento de curta distância",2.2,1,729.62,True,False,False,154981
+6252633,,Níveis a Laser,454617,Nível Laser combinado GCL 2-15 G Profissional  Bosch 0601066J00,"Visibilidade quatro vezes melhor graças às linhas laser verdes
+Linhas horizontais e verticais verdes para máxima visibilidade
+Pontos de prumo vermelhos para uma aplicação de transferência precisa",2.2,1,901.49,True,True,False,154981
+6285080,,Níveis a Laser,454912,"Nível Laser Digital 0,5mm Skil F0150511BA","Projeção de linhas perfeitamente alinhadas devido ao sistema pendular de autonivelação.
+Função de inclinação através da trava do pêndulo Pendurar objetos rapidamente e completame",0.68,0,0,False,False,False,227246
+6285106,,Níveis a Laser,450578,"Nível Laser Digital 0,5mm Skil F0150516BC","O nível a laser de linha com alcance de 10 metros conta com o sistema de estabilização que ajusta a linha do laser é estabelecida em 5 segundos, sinal sonoro, ativado automaticamente.",3.21,1,617.71,True,False,False,227246
+6378780,,Níveis de alumínio,298684,"Nível de alumínio 12"", com base magnética, Vonder 3535100120",Indicado para nivelar superfícies em geral,0.216,12,40.53,True,False,False,154994
+6218091,,Pistola para Pintura,451864,Pistola para pintura com caneca em alumínio tipo sucção ar direto PDV 100  - Vonder  6220000100,"Utilizada com compressores de ar direto. Indicada, principalmente, para ambientes prediais em aplicações como: pinturas com tinta óleo, verniz para madeira, esmalte sintético e selador.",1.4,2,130.41,True,False,False,154994
+6218155,,Pistola para Pintura,451863,Pistola para pintura com caneca em alumínio tipo sucção PSV 100 - Vonder 6220200100,"Na configuração original de fábrica, acompanha bico e agulha de 1,8 mm, sendo indicada principalmente para o ramo de preparação automotiva em aplicações de bases, primer, fundos, pinturas epóxi, PU.",1.71,2,292.88,True,False,False,154994
+6218170,,Pistola para Pintura,451865,Pistola para pintura com caneca plástica tipo gravidade PGV 200 - Vonder 6220100200,"Na configuração original de fábrica, acompanha bico e agulha de 1,4 mm, sendo indicada principalmente para acabamentos automotivos em aplicações de vernizes, tintas metálicas, tintas PU.",1.71,2,256.38,True,False,False,154994
+6218171,,Pistola para Pintura,454748,"Pistola para pintura, com caneca plástica, ar direto, PDV 90 - Vonder 6220090090","Indicada, principalmente, para: AMBIENTES PREDIAIS para pinturas com tinta óleo, verniz para madeira, esmalte sintético e selador. RAMO SERRALHEIRO: aplicação de zarcão, esmalte sintético.",1.04,2,45.35,True,False,False,154994
+6218078,,Pistola para Pintura,,"Pistola elétrica para pintura, 400 W, PEV 400 - Vonder","Indicada para aplicações profissionais e domésticas de tintas sem pigmentos metálicos, como tintas automotivas, látex, vernizes, esmalte à base sintética e à base de água.",0.84,1,361.76,True,False,False,154994
+6254672,6218078,Pistola para Pintura,453831,,,0.84,1,361.76,True,False,False,154994
+6254673,6218078,Pistola para Pintura,453832,,,0.84,0,361.76,True,False,False,154994
+6251687,,Plaina,,Plaina Elétrica Profissional 1555 SKIL,"Cor Preto, Usabilidade: Alisar Superfícies De Madeira",3.36,1,0,True,False,False,227246
+6259025,6251687,Plaina,214200,,,3.36,0,0,True,False,False,227246
+6259026,6251687,Plaina,194232,,,3.36,0,0,True,False,False,227246
+6215607,,Plaina,,Plaina Elétrica Profissional GHO 16 82D Bosch,"Plaina Bosch GHO 16-82 D Professional
+Potente motor de 630W
+Capacidade de corte de até 1.6 mm, ideal para aplicações como nivelação de lâminas de madeira, alisamento de extremidades e ajustes.",4.88,1,725.6,True,False,False,154981
+6259027,6215607,Plaina,452861,,,4.88,0,725.6,True,False,False,154981
+6259028,6215607,Plaina,452904,,,4.88,1,725.6,True,False,False,154981
+6215619,,Politriz,,"Politriz 5"" - 9051 470W SKIL","100% rolamentada.
+Botão-trava de eixo.",2,0,454.67,False,False,False,227246
+6253629,6215619,Politriz,451244,,,2,0,454.67,False,False,False,227246
+6215623,,Politriz,,"Politriz 7"" - 9071 1300W  SKIL","Amplo gatilho, interruptor desenvolvido para melhor ergonomia
+Soft start, sistema de início suave
+6 níveis de velocidade variável, maior controle nas aplicações",3.89,0,677.73,True,False,False,227246
+6253630,6215623,Politriz,454238,,,3.89,0,677.43,True,False,False,227246
+6215630,,Politriz,,Politriz GPO 12 CE Profissional 1250W 110V Bosch 06013890D0,"Politriz  Bosch GPO 12 CE Professional
+Alta potência em apenas 2,5 kg: rápido progresso de trabalho e conforto.
+Design compacto com apenas 405 mm e empilhadeira ergonômica com Soft Grip.",5.23,0,1050.33,False,False,False,154981
+6253631,6215630,Politriz,365363,,,5.23,0,1050.33,False,False,False,154981
+6215640,,Politriz,,Politriz GPO 14 CE Profissional 1400W 220V Bosch 06013890E0,"Politriz Bosch GPO 14 CE Professional
+A ferramenta prática para resultados brilhantes
+Manuseamento fácil graças ao punho ergonómico Softgrip",5.14,0,1050.33,False,False,False,154981
+6253633,6215640,Politriz,363554,,,5.13,0,1050.33,False,False,False,154981
+6378799,,Pulverizador,453259,"Pulverizador com compressão prévia 1,5 litros Vonder 6240000150","Indicado para pulverizações em geral. Não utilizar produtos químicos, como: solventes, ácidos ou tintas.",0.36,6,36.54,True,False,True,154994
+6378820,,Pulverizador,180725,"Pulverizador agrícola 1,0 litro PU 010 Vonder 6240001000","Indicado para pulverização em geral, não utilizar produtos químicos como solventes, ácidos ou tintas.",0.1,6,10.86,True,False,True,154994
+6378841,,Pulverizador,359946,Pulverizador lateral com compressão prévia  5 litros PL 005 VONDER 6240005000,"Indicado para pulverização em geral, não utilizar produtos químicos como solventes, ácidos ou tintas.Pressão máxima de trabalho: 3 bar / 43,5 lbf/pol².",1.25,6,93.01,True,False,True,154994
+6218351,,Regulador Pressão,453606,Reguladores de Pressão e Vazão  MDN G 30 ARG Condor 407785,"Reguladores de Pressão são equipamentos destinados a reduzir a alta pressão dos reservatórios de gases (cilindros), ou de uma tabulação, para adequar as pressões requeridas pelo equipamento e trabalho",1.16,1,196.93,True,False,True,155007
+6253625,6215651,Retifica,451261,,,2.38,0,0,False,False,False,154981
+6218354,,Regulador Pressão,453601,"Reguladores de Pressão e Vazão MDN 1,5 Acetileno Condor 407780","Reguladores de Pressão são equipamentos destinados a reduzir a alta pressão dos reservatórios de gases (cilindros), ou de uma tabulação, para adequar as pressões requeridas pelo equipamento e trabalho",1.16,6,196.93,True,False,True,155007
+6218358,,Regulador Pressão,453603,Reguladores de Pressão e Vazão MDN  10 Oxigenio Condor 407782,"Reguladores de Pressão são equipamentos destinados a reduzir a alta pressão dos reservatórios de gases (cilindros), ou de uma tabulação, para adequar as pressões requeridas pelo equipamento e trabalho",1.16,6,196.93,True,False,True,155007
+6215589,,Retifica,,Micro Retífica Dremel 3000 C/75 Acessórios Bosch F0133000BL,"Micro Retífica Multiuso Dremel 3000 120W 127V Cinza e Preto  10 acessórios para o uso em madeira, metal, vidro, plástico e outros materiais. Mais um estojo com 75 peças para  cortar, polir, lixar.",2.82,0,0,False,False,False,154981
+6253626,6215589,Retifica,452851,,,2.82,0,0,False,False,False,154981
+6215651,,Retifica,,Retificadeira Direita GGS 28 L Profissional Bosch,"Retificadeira direita Bosch GGS 28 L Professional
+Manuseio e potência imbatíveis para o trabalho pesado.
+Mas compacta e potente: o motor de 500 W e a velocidade de 33.000 RPM",2.38,0,0,False,False,False,154981
+6268326,6215651,Retifica,451672,,,1.97,0,0,False,False,False,154981
+6252065,,Retifica,,Micro Retífica Dremel 3000 C/10 Acessórios Bosch F0133000PB,"A micro retífica mais versátil para realizar seus projetos criativo! 
+Permitem-lhe realizar uma multiplicidade de tarefas. Isto inclui tarefas como lixar, talhar, gravar e fresar, cortar, limpar,poli",1,1,257.84,True,False,False,154981
+6253627,6252065,Retifica,92530,,,1,2,257.84,True,False,False,154981
+6381384,,Retifica,455179,Micro Retífica Elétrica Stylo+ Bivolt com 11 Peças Dremel F0132050NG,"Stylo+ a mais nova ferramenta para os apaixonados por criar.
+Com seu formato compacto, silencioso e fácil de usar.
+Mais precisão e conforto, ideal para trabalhos detalhados.",0.355,1,211.74,True,True,False,154981
+6424587,,Retifica,451261,Retifica direita GGS 28 L Profissional Bosch 06012240E0,Manuseio e potência imbatíveis para o trabalho pesado.  Nível de pressão sonora dB(A); nível de potência sonora dB(A). Incerteza K= dB.,1.98,0,0,True,True,True,154981
+6217463,,Retificador/Inversor,454089,"Inversor para solda elétrica RIV 136 com display digital, bivolt Vonder 6878136000","Indicado para serviços em solda para montagem e reparos de estruturas metálicas em geral. Solda eletrodos AWS E6013 e AWS E7018 dentre outros até 3,25 mm. Realiza também solda TIG DC Lift arc.",4.8,0,869.96,True,False,True,154994
+6217464,,Retificador/Inversor,453149,"Inversor para solda elétrica RIV 166 com display digital, bivolt Vonder  6878166000","Ideal para manutenções em indústrias, serralherias e oficinas em geral. Solda eletrodos AWS E 6013 e AWS E 7018 até 3,25 mm (127 V~) e 4,0 mm (220 V~), entre outros.",7.25,1,1040,True,False,False,154994
+6217465,,Retificador/Inversor,453150,"Inversor para solda elétrica RIV 222 com display digital, bivolt Vonder 6878222000","Ideal para manutenções em indústrias, serralherias e oficinas em geral. Solda eletrodos AWS E 6013 e AWS E 7018 até 3,25 mm (127 V~) e 4,0 mm (220 V~), entre outros.",6.9,6,1158.68,True,False,False,154994
+6218172,,Retificador/Inversor,,Retificador Inversor RIV 205 AC/DC Vonder  6878205000,"Indicada para soldagem no processo TIG em alta frequência e também com eletrodos revestidos. Ideal para reparos e manutenções, oficinas e indústrias em geral.",20,0,0,False,False,False,154994
+6253544,6218172,Retificador/Inversor,452842,,,20,1,0,False,False,False,154994
+6379844,,Retificador/Inversor,453799,Inversor de Solda LHN 240I Plus Monofásico 220v - Esab 733920,"A Máquina Inversora de solda para eletrodo e TIG 200 amperes LHN 240i Plus da Esab  traz mais resistência, potência, confiabilidade e outras novidades que vão facilitar o seu dia-a-dia.",7,1,1893.04,True,False,False,155008
+6215718,,Serra Circular,,Serra circular manual GKS  67 Profissional Bosch,"Serra circular manual Bosch GKS 67 Professional
+A mais leve da categoria, proporcionando maior conforto durante o uso contínuo.
+Força e robustez para aplicações pesadas, seja em obras ou oficinas",6.3,0,0,False,False,False,154981
+6265306,6215718,Serra Circular,450660,,,6.2,0,0,False,False,False,154981
+6259865,6215718,Serra Circular,450665,,,6.3,0,0,False,False,False,154981
+6265303,,Serra Circular,,Serra circular manual GKS 150 1500W Profissional Bosch,Desempenho e resistência superiores para corte de desbaste,4.9,1,0,True,True,False,154981
+6265304,6265303,Serra Circular,455059,,,4.9,0,0,True,True,False,154981
+6265305,6265303,Serra Circular,455036,,,4.9,0,0,True,True,False,154981
+6285237,,Serra Circular,454326,"Serra circular AB 9.1/4"" 5885 1700W 127V S/Maleta Skil F0125885AB","A Serra Circular 5885 da Skil, conta com uma partida suave, para evitar que danifique o produto, possui uma empunhadeira mais larga para o maior controle, cobertura Soft Grip. Para cortes em Madeira.",10.23,1,738.86,True,False,False,227246
+6215719,,Serra de Esquadria,,Serra de esquadria GCM 10 Profissional 1700W Bosch,"Serra de esquadria Bosch GCM 10 X Profissional
+Construção robusta para cortes mais precisos
+Alta precisão e capacidade de corte
+Potente motor de 1700W com sistema de freios e design ergonômico.",16.2,0,1714.86,False,False,False,154981
+6264703,6215719,Serra de Esquadria,452369,,,16.2,0,1714.86,False,False,False,154981
+6264707,6215719,Serra de Esquadria,452370,,,16.2,0,1714.86,False,False,False,154981
+6139539,,Serra Mármore,,Serra Mármore 9815 1.200w 127V BR SKIL F0129815AC,"Excelente ferramentas ideal para cortes rápidos e precisos, com motor 100% rolamentado e interruptores blindados contra poeira.",3.52,0,0,False,False,False,227246
+6253620,6139539,Serra Mármore,454176,,,3.52,0,0,False,False,False,227246
+6252570,,Serra Mármore,,Serra mármore GDC 150 TITAN Profissional Bosch,"Leve: A mais leve da categoria. 2,6 Kg em um design ergonômico e compacto.
+",3.1,0,362.75,True,False,False,154981
+6264694,6252570,Serra Mármore,453399,,,3.1,1,362.75,True,False,False,154981
+6264697,6252570,Serra Mármore,455055,,,3.1,0,362.75,True,False,False,154981
+6139541,,Serra Mármore,,Serra mármore GDC 150 + 2 Disc TITAN Profissional Bosch,"A mais leve da categoria. 2,6 Kg em um design ergonômico e compacto.
+Mais potencia e maior torque: 1500W e 12.200 rotações por minuto, maior força e velocidade nas aplicações.",4.5,0,0,False,False,False,154981
+6264692,6139541,Serra Mármore,454378,,,4.5,0,0,False,False,False,154981
+6264693,6139541,Serra Mármore,454379,,,4.5,0,0,False,False,False,154981
+6139616,,Serra Mármore,,Serra mármore GDC 151 TITAN Profissional Bosch,"A mais leve da categoria. 2,6 Kg em um design ergonômico e compacto.
+Mais potência e maior torque: 1500W e 12.200 rotações por minuto, maior força e velocidade nas aplicações.",3.2,1,373.32,True,False,False,154981
+6264699,6139616,Serra Mármore,453484,,,3.2,1,373.32,True,False,False,154981
+6264700,6139616,Serra Mármore,453400,,,3.2,1,373.32,True,False,False,154981
+6215723,,Serra Tico-Tico,,Serra Tico-Tico 400W SKIL,"A Serra Tico-Tico F0124400 chega ao mercado com um novo design, ainda mais mais robusta, a deixando mais Profissional. Super potente, tem capacidade de 400 Watts e acompanha uma lâmina para madeira.",2,0,0,False,False,False,227246
+6253619,6215723,Serra Tico-Tico,453622,,,2,0,0,False,False,False,227246
+6215814,,Serra Tico-Tico,,Serra Tico-Tico GST 75 E 710W Profissional Bosch,"A serra pendular profissional da BOSCH com a melhor relação custo/potência!
+Motor potente de 710 W para uma velocidade e capacidade de corte elevadas",3.34,0,582.87,False,False,False,154981
+6264670,6215814,Serra Tico-Tico,452973,,,3.34,1,582.87,False,False,False,154981
+6264676,6215814,Serra Tico-Tico,452974,,,3.34,1,582.87,False,False,False,154981
+6215816,,Serra Tico-Tico,,Serra Tico-Tico GST 65 BE 400W Profissional Bosch,"Serra tico-tico Bosch GST 65 BE Professional
+O melhor custo-benefício da categoria.
+A serra tico-tico mais leve do mercado, com potente motor de 400 W.",3.21,0,0,False,False,False,154981
+6264667,6215816,Serra Tico-Tico,363310,,,3.21,0,0,False,False,False,154981
+6264669,6215816,Serra Tico-Tico,330191,,,3.22,0,0,False,False,False,154981
+6252578,,Serra Tico-Tico,,Serra Tico-Tico GST 650 STD 450W Profissional Bosch,"Padrões de alta qualidade da Bosch sempre à mão.
+Econômica com design durável e tecnologia Bosch confiável para excelentes resultados.
+",2.2,1,328.34,True,False,False,154981
+6264681,6252578,Serra Tico-Tico,455035,,,2.2,1,328.34,True,False,False,154981
+6264684,6252578,Serra Tico-Tico,455060,,,2.2,0,328.34,True,False,False,154981
+6375525,,Serra Tico-Tico,,Serra Tico-Tico 4400 - 400 W + Sargento Skil,"A Serra Tico-Tico chega ao mercado com um novo design, ainda mais mais robusta, a deixando mais Profissional.",2.71,1,272.2,True,False,False,227246
+6375528,6375525,Serra Tico-Tico,454452,,,2.71,2,272.2,True,False,False,227246
+6375529,6375525,Serra Tico-Tico,454453,,,2.71,2,272.2,True,False,False,227246
+6379837,,Soldas e Cortes,455001,Luva HD Black para soldagem Mig Esab 739157,"Luva de proteção para soldagem MIG/MAG e MMA.
+feita em raspa de couro preta, resistente ao desgaste e ao calor.
+O polegar é angulado para maior conforto e destreza.",0,3,57.6,True,False,True,155008
+6215819,,Soprador,,Soprador de ar quente GHG 630 DCE Profissional Bosch,"Soprador de ar quente Bosch GHG 630 DCE Professional
+Único com tela de cristal líquido com ajuste de temperatura de acordo com o material (de 10 em 10 graus): madeira, metal, plástico, pinturas etc",1.6,1,784.68,True,False,False,154981
+6253616,6215819,Soprador,297964,,,1.6,1,784.68,True,False,False,154981
+6268328,6215819,Soprador,297976,,Soprador de ar quente GHG 630 DCE Profissional Bosch,1.6,0,0,True,False,False,154981
+6215820,,Soprador,,Soprador térmico 8003 SKIL,"Soprador térmico 8003  Base plana para uso estacionário, Punho com softgrip , conforto e ergonomia nas aplicações, Anel removível para trabalhos em lugares de difícil acesso.",1.17,1,262.57,True,False,False,227246
+6264663,6215820,Soprador,453444,,,1.17,1,262.57,True,False,False,227246
+6264664,6215820,Soprador,454454,,,1.17,0,0,True,False,False,227246
+6218176,,Talha Alavanca,452406,"Talha com alavanca TA 075, 750 kg x 1,5 m,  Vonder 6195075015","Indicada para puxar, arrastar e levantar cargas.",6.86,0,0,True,False,True,154994
+6378873,,Talha Alavanca,452407,"Talha com alavanca TA 075 750 kg x 3,0 m Vonder 6195075003","Indicada para puxar, arrastar e levantar cargas",8.07,0,0,True,False,False,154994
+6378877,,Talha Alavanca,452408,"Talha com alavanca TA 150 1,5 T x 1,5 m Vonder 6195150015","Indicada para puxar, arrastar e levantar cargas
+",11.35,0,0,True,False,False,154994
+6378888,,Talha Alavanca,452409,"Talha com alavanca TA 315 1,5 T x 3,0 m Vonder Plus 6195150003","Indicada para puxar, arrastar e levantar cargas",13.17,0,0,True,False,True,154994
+6378893,,Talha Alavanca,452394,"Talha manual 1,0 tf elevação 3,0 m Vonder Plus 6143100300","Indicada para elevação de peças em geral, não sendo permitida a elevação de pessoas ou animais
+
+Sistema operacional simples, ágil e prático. Totalmente manual.",12.95,0,0,True,False,True,154994
+6378906,,Talha Alavanca,452400,"Talha manual 1,0 tf elevação 5,0 m Vonder Plus 6143100500","Indicada para elevação de peças em geral, não sendo permitida a elevação de pessoas ou animais
+
+Sistema operacional simples, ágil e prático. Totalmente manual.",16.15,0,0,True,False,True,154994
+6378912,,Talha Alavanca,452393,"Talha manual 500 kgf elevação 3,0 m Vonder Plus 6143050300","Indicada para elevação de peças em geral, não sendo permitida a elevação de pessoas ou animais
+
+Sistema operacional simples, ágil e prático. Totalmente manual
+
+
+",9.95,0,0,True,False,False,154994
+6378915,,Talha Alavanca,452399,"Talha manual 500 kgf elevação 5,0 m Vonder Plus 6143050500","Indicada para elevação de peças em geral, não sendo permitida a elevação de pessoas ou animais
+
+Sistema operacional simples, ágil e prático. Totalmente manual.",12.77,0,0,True,False,True,154994
+6378917,,Talha Alavanca,452395,"Talha manual 2,0 tf elevação 3,0 m Vonder Plus 6143200300","Indicada para elevação de peças em geral, não sendo permitida a elevação de pessoas ou animais
+
+Sistema operacional simples, ágil e prático. Totalmente manual.",21.2,0,0,True,False,True,154994
+6469007,,Talha Alavanca,455533,Talha Manual Compacta 1.5 T x 10 M Berg Steel NT8.150-100,"Capacidades: 1,5 e 3t. Projetada de forma compacta equipada com correntes de alta resistência, ganchos forjados e travas de segurança. Conforme Norma NBR 16.324.",36,0,0,True,True,False,154985
+6378996,,Tarraxa,452616,"Tarraxa manual BSPT 1/2"" a 1"" Vonder  3559012100",Indicada para fazer roscas paralelas em tubos metálicos,4.676,2,387.91,True,False,False,154994
+6379001,,Tarraxa,452617,"Tarraxa manual BSPT 1/2"" a 2"" Vonder 3559012200",Indicada para fazer roscas paralelas em tubos metálicos,11.76,2,1071.47,True,False,False,154994
+6379148,,Tarraxa,453404,Tarraxa p/ Tubo PVC 1/2  A 1 BSP  Nove54 3559001120,Possui 3 tarraxas intercambiáveis aumentando a possibilidade de diâmetro de roscas e guia de posicionamento conferindo maior precisão.,0.35,12,47.83,True,False,True,154994
+6408293,,Termômetro,454242,Termômetro Infravermelho Digital MT-320A Minipa,O termômetro infravermelho MT-320A é capaz de averiguar a temperatura de uma superfície pela energia infravermelha irradiada da  da superfície mirada.,0.18,1,164.36,True,True,False,154988
+6577742,,Termômetro,86104,Termômetro Infravermelho Digital MT-350A Minipa,"Este instrumento foi desenvolvido para medir temperatura sem contato, por exemplo em locais de difícil acesso, com altas temperaturas, em peças ou partes em movimento.",0.2,1,447.35,True,False,False,154988
+6219167,,Tocha para Solda,451670,"Tocha p/ Solda TIG  HW 26V 3,5 mt 9mm TI 962 Oximig 451670","Ciclo de trabalho:
+Argônio - 160 DC / 140 AC
+Arames:
+Eletrodos: 1,6 - 3,2 mm
+Cor: preta",1.9,1,238.93,True,False,False,155010
+6219168,,Tocha para Solda,364495,"Tocha p/ Solda TIG HW 26V 3,5 mt 13mm TI 963 Oximig 364495","Dados técnicos
+Gás : Argônio
+Corrente (A) : 160 DC / 140 AC
+Eletrodos mm : 1,6 - 3,2
+Cor:preta",1.9,1,238.93,True,False,False,155010
+6276469,,Tocha para Solda,455138,Tocha p/ Solda MIG/MAG SBME-235 3mt CO2 300ª/60% Oximig MW223,"Ciclo de trabalho: CO2 - 300A / 60%
+Argônio e misturas - 260A / 60%
+
+Arame: 0,8 - 1,2mm",0,0,0,True,False,False,155010
+6276470,,Tocha para Solda,452184,Tocha p/ Solda MIG/MAG SBME-450 3mt CO2 390A/60% Oximig MW233,"Ciclo de trabalho:
+CO2 - 390A / 60%
+Argônio e misturas - 370A / 60%
+
+Arame:
+Sólidos e tubulares: 0,8 - 1,6mm
+Ligas de alumínio: 1,2 - 1,6mm",3.63,0,0,True,False,False,155010
+6276471,,Tocha para Solda,366199,Tocha p/ Solda MIG/MAG SBME-150 5mt CO2 180A/60% Oximig MW797,"Ciclo de trabalho: CO2 - 180A / 60%
+Argônio e misturas - 160A / 60%
+Arame: 0,8 - 1,0mm
+",2.55,1,402.32,True,False,False,155010
+6380012,,Tocha para Solda,455010,"Tocha TIG 13mm 26v 3,5m Esab 407987",Tocha de soldagem TIG SR 26,0,0,0,True,False,False,155008
+6377058,,Torquímetro,454983,"Torquímetro de estalo encaixe 1/2"" 10-100 N.m Tramontina Pro 44509300",Os torquímetros da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado.,1.3,0,0,True,False,False,154983
+6377059,,Torquímetro,450242,"Torquímetro de estalo encaixe 3/8""  4-20 N.m Tramontina Pro 44508200","Torquímetro de estalo encaixe 3/8"" 4-20 N.m
+Os torquímetros Tork Control da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado",0.96,0,800.03,True,False,False,154983
+6377060,,Torquímetro,450238,"Torquímetro de estalo encaixe 3/8"" 20-100 N.m Tramontina Pro 44508201",Os torquímetros Tork Control da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado.,1.74,0,0,True,False,False,154983
+6377061,,Torquímetro,450239,"Torquímetro de estalo encaixe 1/2"" 40-200 N.m Tramontina Pro 44508300",Os torquímetros Tork Control da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado.,2.13,0,0,True,False,False,154983
+6377062,,Torquímetro,454985,"Torquímetro de estalo encaixe 1/2"" 60-300 N.m Tramontina Pro 44509302","Os torquímetros da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado. 
+",2.34,0,0,True,False,False,154983
+6377063,,Torquímetro,454986,"Torquímetro de estalo encaixe 3/4"" 80-400 N.m Tramontina Pro 44509400",Os torquímetros da Tramontina PRO são ferramentas de precisão utilizados para apertar parafusos ou porcas com torque controlado.,2,0,0,True,False,False,154983
+6218177,,Transformador de Solda,361801,Transformador para Solda Elétrica TT 2500 Bivolt Vonder 6868000250,"Indicado para soldagem com eletrodos revestidos em corrente alternada AC: AWS E6013, AWS E308, AWS E316, AWS 5.15 NI-CL, AWS 5.15 NIFE-C.",21,1,0,False,False,False,154994
+6377211,,Trena,453861,Trena 5 metros Tramontina Pro 43166305,"Medições precisas e com conforto no uso, é com a trena plástica da Linha Faça Você Mesmo da Tramontina, que possui: retorno automático da fita e trava para facilitar seu uso.
+",0.2,3,13.19,True,False,False,154983
+6377265,,Trena,453860,Trena 3 metros Tramontina Pro 43166303,"Medições precisas e com conforto no uso, é com a trena plástica da Linha Faça Você Mesmo da Tramontina, que possui: retorno automático da fita e trava para facilitar seu uso.
+",0.13,2,8.83,True,False,False,154983
+6379019,,Trena,453244,Trena de aço 5 m x 19 mm Vonder 3868500005,Indicada para medições em geral. Não possui alça em nylon.,0,0,0,True,False,False,154994
+6379025,,Trena,453350,Trena de fibra longa caixa fechada com 30 m Vonder 3869300630,Indicada para medições em geral,0.4,24,44.41,True,False,False,154994
+6379027,,Trena,453637,Trena de fibra longa caixa aberta com 50 m Vonder  3869503050,Indicada para medições em geral,0.82,6,80.68,True,False,False,154994
+6379142,,Trena,453636,Trena de fibra longa caixa aberta com 30 m Vonder 3869303030,Indicada para medições em geral,0.6,6,72.27,True,False,False,154994
+6379146,,Trena,453635,Trena de fibra longa caixa fechada com 20 m Vonder 3869200620,Indicada para medições em geral,0.29,6,32.27,True,False,False,154994
+6381476,,Tupia,455180,Tupia GKF 550W Bosch 06016A00D0,"A Tupia manual GKF 550 da Bosch é ideal para aparar e recortar madeira, plástico e materiais semelhantes.
+Corte rápido e de qualidade em suas mãos!
+Fresagem de qualidade sempre sob controle",1.4,0,0,False,False,False,154981
+6381475,,Tupia,,Tupia GKF 600 Bosch,"A mais compacta tupia laminadora do mercado, com uma carcaça de alumínio resistente e leve, facilitando as operações.
+Prática e versátil para perfilar, alinhar, ranhurar ou embutir ferragens de porta",1.4,0,0,False,False,False,154981
+6381477,6381475,Tupia,358857,,,0,0,0,True,False,False,154981
+6381478,6381475,Tupia,450592,,,0,0,0,True,False,False,154981
+6408197,,Uso Geral,134200,Micro-Óleo Anticorrosivo M1 300ml Starrett  M1215,"M1 é o lubrificante de maior valia para o seu dinheiro. Ele seca e não atrai sujeira, poeira e outras impurezas, como fazem muitos lubrificantes famosos.",0.15,12,12.46,True,True,False,154986
+6218379,,Válvula Retenção,453608,Válvula Corta Chama MG VCFN-MG Condor 407787,Válvulas corta fogo são dispositivos utilizados para atuar corretivamente em caso de retrocessos de chama.,0.13,6,41.25,True,False,False,155007
+6218384,,Válvula Retenção,453595,Válvula Corta Chama MO VCFN-MO Condor 407788,Válvulas corta fogo são dispositivos utilizados para atuar corretivamente em caso de retrocessos de chama.,0.13,6,52.2,True,False,False,155007
+6218390,,Válvula Retenção,453592,Válvula Corta Chama RG VCFN-RG Condor 407789,Válvulas corta fogo são dispositivos utilizados para atuar corretivamente em caso de retrocessos de chama.,0.13,6,41.25,True,False,False,155007
+6218392,,Válvula Retenção,453593,Válvula Corta Chama RO VCFN-RO Condor 407790,Válvulas corta fogo são dispositivos utilizados para atuar corretivamente em caso de retrocessos de chama.,0.13,6,41.25,True,False,False,155007
+6217382,,Varredeiras,450782,Varredeira de piso KM 70/15 C Karcher 15171510,Varredeira mecânica manual compacta que funciona sem necessidade de energia elétrica. Possui faixa de varrição de 700mm e reservatório removível de coleta com capacidade útil de 20 litros.,20,1,3082.37,False,False,False,154984
+6217445,,Varredeiras,454327,"Varredeira de piso KM 70/20 manual compacta,produção de 3.680 m²/h Dupla escova Karcher 15171070","Ideal para  reas internas e externas, a partir de 200 m2. 
+Possui design compacto e ergonômico, com alça dobrável e ajuste em três níveis de altura, além de escova lateral para limpeza de cantos.",26.4,1,4334.2,False,False,False,154984
+6217446,,Varredeiras,453934,Varredeira de piso S 650  manual Residencial com produção de 1.800 m²/h  Karcher 17663000,"Estrutura, corpo e reservatório fabricados com polímeros reforçados robusto, prova de d'água e corrosão,reciclável. 
+Leve e faz baixíssimo ruído fácil de usar, operação conveniente.",11.4,1,822.94,False,False,False,154984
